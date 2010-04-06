@@ -1,0 +1,1644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><head>
+<title id="1">
+<s id="s1.1">
+ <chunk id="c1.1-1" type="NP">
+  <w id="w1.1.1" pos="NNP" tree="NP">Celex</w>
+  <w id="w1.1.2" lem="Test" pos="NNP" tree="NP">Test</w>
+ </chunk>
+</s></title>
+
+<link xmlns="http://www.w3.org/1999/xhtml" href="../../../../../css/traite.css" rel="stylesheet" type="text/css" />
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /></head><body>
+<p id="2" class="TiDoc">
+<s id="s2.1">
+ <chunk id="c2.1-1" type="NP">
+  <w id="w2.1.1" pos="NNP" tree="NN">ANNEX I</w>
+ </chunk>
+</s></p>
+<p id="3" class="StiDoc">
+<s id="s3.1">
+ <chunk id="c3.1-1" type="NP">
+  <w id="w3.1.1" lem="list" pos="NNP" tree="NN">LIST</w>
+  <w id="w3.1.2" lem="refer" pos="NNP" tree="VVD">REFERRED</w>
+  <w id="w3.1.3" lem="TO" pos="NNP" tree="TO">TO</w>
+  <w id="w3.1.4" lem="in" pos="NNP" tree="IN">IN</w>
+  <w id="w3.1.5" pos="NNP" tree="CD">ARTICLE III-226</w>
+ </chunk>
+ <chunk id="c3.1-2" type="PP">
+  <w id="w3.1.6" lem="of" pos="NNP" tree="IN">OF</w>
+ </chunk>
+ <chunk id="c3.1-3" type="NP">
+  <w id="w3.1.7" lem="the" pos="NNP" tree="DT">THE</w>
+  <w id="w3.1.8" lem="constitution" pos="NNP" tree="NN">CONSTITUTION</w>
+ </chunk>
+</s></p><table class="standardTable"><tr class="HEADER"><td class="HEADER">
+<p id="4">
+<s id="s4.1">
+ <chunk id="c4.1-1" type="LST">
+  <w id="w4.1.1" lem="1" pos="LS" tree="LS">1</w>
+ </chunk>
+ <w id="w4.1.2" lem="-" pos=":" tree=":">-</w>
+ <chunk id="c4.1-3" type="NP">
+  <w id="w4.1.3" lem="Number" pos="NN" tree="NP">Number</w>
+ </chunk>
+ <chunk id="c4.1-4" type="PP">
+  <w id="w4.1.4" lem="in" pos="IN" tree="IN">in</w>
+ </chunk>
+ <chunk id="c4.1-5" type="NP">
+  <w id="w4.1.5" lem="the" pos="DT" tree="DT">the</w>
+  <w id="w4.1.6" lem="combined" pos="NNP" tree="JJ">Combined</w>
+  <w id="w4.1.7" lem="nomenclature" pos="NNP" tree="NN">Nomenclature</w>
+ </chunk>
+</s></p></td><td class="HEADER">
+<p id="5">
+<s id="s5.1">
+ <chunk id="c5.1-1" type="LST">
+  <w id="w5.1.1" lem="2" pos="LS" tree="LS">2</w>
+ </chunk>
+ <w id="w5.1.2" lem="-" pos=":" tree=":">-</w>
+ <chunk id="c5.1-3" type="NP">
+  <w id="w5.1.3" lem="description" pos="NN" tree="NN">Description</w>
+ </chunk>
+ <chunk id="c5.1-4" type="PP">
+  <w id="w5.1.4" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c5.1-5" type="NP">
+  <w id="w5.1.5" lem="product" pos="NNS" tree="NNS">products</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="6">
+<s id="s6.1">
+ <chunk id="c6.1-1" type="NP">
+  <w id="w6.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w6.1.2" lem="1" pos="CD" tree="CD">1</w>
+ </chunk>
+</s></p></td><td class="">
+<p id="7">
+<s id="s7.1">
+ <chunk id="c7.1-1" type="NP">
+  <w id="w7.1.1" lem="live" pos="NN" tree="JJ">Live</w>
+  <w id="w7.1.2" lem="animal" pos="NNS" tree="NNS">animals</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="8">
+<s id="s8.1">
+ <chunk id="c8.1-1" type="NP">
+  <w id="w8.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w8.1.2" lem="2" pos="CD" tree="CD">2</w>
+ </chunk>
+</s></p></td><td class="">
+<p id="9">
+<s id="s9.1">
+ <chunk id="c9.1-1" type="NP">
+  <w id="w9.1.1" lem="meat" pos="NNP" tree="NN">Meat</w>
+  <w id="w9.1.2" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w9.1.3" lem="edible" pos="JJ" tree="JJ">edible</w>
+  <w id="w9.1.4" lem="meat" pos="NN" tree="NN">meat</w>
+  <w id="w9.1.5" lem="offal" pos="NN" tree="NN">offal</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="10">
+<s id="s10.1">
+ <chunk id="c10.1-1" type="NP">
+  <w id="w10.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w10.1.2" lem="3" pos="CD" tree="CD">3</w>
+ </chunk>
+</s></p></td><td class="">
+<p id="11">
+<s id="s11.1">
+ <chunk id="c11.1-1" type="NP">
+  <w id="w11.1.1" lem="fish" pos="NNP" tree="RB">Fish</w>
+ </chunk>
+ <w id="w11.1.2" lem="," pos="," tree=",">,</w>
+ <chunk id="c11.1-3" type="NP">
+  <w id="w11.1.3" lem="crustacean" pos="NNS" tree="NNS">crustaceans</w>
+  <w id="w11.1.4" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w11.1.5" lem="mollusc" pos="NNS" tree="NNS">molluscs</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="12">
+<s id="s12.1">
+ <chunk id="c12.1-1" type="NP">
+  <w id="w12.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w12.1.2" lem="4" pos="CD" tree="CD">4</w>
+ </chunk>
+</s></p></td><td class="">
+<p id="13">
+<s id="s13.1">
+ <chunk id="c13.1-1" type="NP">
+  <w id="w13.1.1" lem="dairy" pos="JJ" tree="NN">Dairy</w>
+  <w id="w13.1.2" lem="produce" pos="NN" tree="NN">produce</w>
+  <w id="w13.1.3" lem=";" pos="JJ" tree=":">;</w>
+ </chunk>
+ <chunk id="c13.1-2" type="NP">
+  <w id="w13.1.4" lem="bird" pos="NNS" tree="NNS">birds</w>
+  <w id="w13.1.5" lem="'" pos="''" tree="POS">'</w>
+  <w id="w13.1.6" lem="egg" pos="NNS" tree="NNS">eggs</w>
+ </chunk>
+ <w id="w13.1.7" lem=";" pos=":" tree=":">;</w>
+ <chunk id="c13.1-4" type="NP">
+  <w id="w13.1.8" lem="natural" pos="JJ" tree="JJ">natural</w>
+  <w id="w13.1.9" lem="honey" pos="NN" tree="NN">honey</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="14">
+<s id="s14.1">
+ <chunk id="c14.1-1" type="NP">
+  <w id="w14.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w14.1.2" lem="5" pos="CD" tree="CD">5</w>
+ </chunk>
+</s></p></td>
+<td class="" /></tr><tr><td class="">
+<p id="15">
+<s id="s15.1">
+ <chunk id="c15.1-1" type="NP">
+  <w id="w15.1.1" pos="CD" tree="NN">0504 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="16">
+<s id="s16.1">
+ <chunk id="c16.1-1" type="NP">
+  <w id="w16.1.1" lem="gut" pos="NNS" tree="NNS">Guts</w>
+ </chunk>
+ <w id="w16.1.2" lem="," pos="," tree=",">,</w>
+ <chunk id="c16.1-3" type="NP">
+  <w id="w16.1.3" lem="bladder" pos="NNS" tree="NNS">bladders</w>
+  <w id="w16.1.4" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w16.1.5" lem="stomach" pos="NNS" tree="NNS">stomachs</w>
+ </chunk>
+ <chunk id="c16.1-4" type="PP">
+  <w id="w16.1.6" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c16.1-5" type="NP">
+  <w id="w16.1.7" lem="animal" pos="NNS" tree="NNS">animals</w>
+ </chunk>
+ <w id="w16.1.8" lem="(" pos="(" tree="(">(</w>
+ <chunk id="c16.1-7" type="NP">
+  <w id="w16.1.9" lem="other" pos="JJ" tree="JJ">other</w>
+  <w id="w16.1.10" lem="than" pos="IN" tree="IN">than</w>
+  <w id="w16.1.11" lem="fish" pos="JJ" tree="NN">fish</w>
+  <w id="w16.1.12" lem=")" pos="NN" tree=")">)</w>
+ </chunk>
+ <w id="w16.1.13" lem="," pos="," tree=",">,</w>
+ <chunk id="c16.1-9" type="NP">
+  <w id="w16.1.14" lem="whole" pos="JJ" tree="NN">whole</w>
+  <w id="w16.1.15" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w16.1.16" lem="piece" pos="NNS" tree="NNS">pieces</w>
+ </chunk>
+ <w id="w16.1.17" lem="thereof" pos="VBP" tree="RB">thereof</w>
+</s></p></td></tr><tr><td class="">
+<p id="17">
+<s id="s17.1">
+ <chunk id="c17.1-1" type="NP">
+  <w id="w17.1.1" pos="CD" tree="NN">0515 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="18">
+<s id="s18.1">
+ <chunk id="c18.1-1" type="NP">
+  <w id="w18.1.1" lem="animal" pos="JJ" tree="JJ">Animal</w>
+  <w id="w18.1.2" lem="product" pos="NNS" tree="NNS">products</w>
+  <w id="w18.1.3" lem="not" pos="NN" tree="RB">not</w>
+ </chunk>
+ <chunk id="c18.1-2" type="VP">
+  <w id="w18.1.4" lem="elsewhere" pos="RB" tree="RB">elsewhere</w>
+ </chunk>
+ <chunk id="c18.1-3" type="NP">
+  <w id="w18.1.5" lem="specify" pos="VBN" tree="VVN">specified</w>
+  <w id="w18.1.6" lem="or" pos="RB" tree="CC">or</w>
+  <w id="w18.1.7" lem="include" pos="JJ" tree="VVN">included</w>
+ </chunk>
+ <w id="w18.1.8" lem=";" pos=":" tree=":">;</w>
+ <chunk id="c18.1-5" type="NP">
+  <w id="w18.1.9" lem="dead" pos="JJ" tree="JJ">dead</w>
+  <w id="w18.1.10" lem="animal" pos="NNS" tree="NNS">animals</w>
+ </chunk>
+ <chunk id="c18.1-6" type="PP">
+  <w id="w18.1.11" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c18.1-7" type="NP">
+  <w id="w18.1.12" pos="CD" tree="JJ">Chapter 1</w>
+  <w id="w18.1.13" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w18.1.14" pos="CD" tree="JJ">Chapter 3</w>
+ </chunk>
+ <w id="w18.1.15" lem="," pos="," tree=",">,</w>
+ <chunk id="c18.1-9" type="NP">
+  <w id="w18.1.16" lem="unfit" pos="NN" tree="JJ">unfit</w>
+ </chunk>
+ <chunk id="c18.1-10" type="PP">
+  <w id="w18.1.17" lem="for" pos="IN" tree="IN">for</w>
+ </chunk>
+ <chunk id="c18.1-11" type="NP">
+  <w id="w18.1.18" lem="human" pos="NN" tree="JJ">human</w>
+  <w id="w18.1.19" lem="consumption" pos="NN" tree="NN">consumption</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="19">
+<s id="s19.1">
+ <chunk id="c19.1-1" type="NP">
+  <w id="w19.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w19.1.2" lem="6" pos="CD" tree="CD">6</w>
+ </chunk>
+</s></p></td><td class="">
+<p id="20">
+<s id="s20.1">
+ <chunk id="c20.1-1" type="NP">
+  <w id="w20.1.1" lem="live" pos="JJ" tree="JJ">Live</w>
+  <w id="w20.1.2" lem="tree" pos="NNS" tree="NNS">trees</w>
+ </chunk>
+ <w id="w20.1.3" lem="and" pos="CC" tree="CC">and</w>
+ <chunk id="c20.1-3" type="NP">
+  <w id="w20.1.4" lem="other" pos="JJ" tree="JJ">other</w>
+  <w id="w20.1.5" lem="plant" pos="NNS" tree="NNS">plants</w>
+ </chunk>
+ <w id="w20.1.6" lem=";" pos=":" tree=":">;</w>
+ <chunk id="c20.1-5" type="NP">
+  <w id="w20.1.7" lem="bulb" pos="NNS" tree="NNS">bulbs</w>
+ </chunk>
+ <w id="w20.1.8" lem="," pos="," tree=",">,</w>
+ <chunk id="c20.1-7" type="NP">
+  <w id="w20.1.9" lem="root" pos="NNS" tree="NNS">roots</w>
+ </chunk>
+ <w id="w20.1.10" lem="and" pos="CC" tree="CC">and</w>
+ <chunk id="c20.1-9" type="NP">
+  <w id="w20.1.11" lem="the" pos="DT" tree="DT">the</w>
+  <w id="w20.1.12" lem="like" pos="NN" tree="JJ">like</w>
+  <w id="w20.1.13" lem=";" pos="NN" tree=":">;</w>
+  <w id="w20.1.14" lem="cut" pos="NN" tree="NN">cut</w>
+ </chunk>
+ <chunk id="c20.1-10" type="NP">
+  <w id="w20.1.15" lem="flower" pos="NNS" tree="NNS">flowers</w>
+  <w id="w20.1.16" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w20.1.17" lem="ornamental" pos="JJ" tree="JJ">ornamental</w>
+  <w id="w20.1.18" lem="foliage" pos="NN" tree="NN">foliage</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="21">
+<s id="s21.1">
+ <chunk id="c21.1-1" type="NP">
+  <w id="w21.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w21.1.2" lem="7" pos="CD" tree="CD">7</w>
+ </chunk>
+</s></p></td><td class="">
+<p id="22">
+<s id="s22.1">
+ <chunk id="c22.1-1" type="NP">
+  <w id="w22.1.1" lem="edible" pos="NNP" tree="JJ">Edible</w>
+  <w id="w22.1.2" lem="vegetable" pos="NNS" tree="NNS">vegetables</w>
+ </chunk>
+ <w id="w22.1.3" lem="and" pos="CC" tree="CC">and</w>
+ <chunk id="c22.1-3" type="NP">
+  <w id="w22.1.4" lem="certain" pos="JJ" tree="JJ">certain</w>
+  <w id="w22.1.5" lem="root" pos="NNS" tree="NNS">roots</w>
+  <w id="w22.1.6" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w22.1.7" lem="tuber" pos="NNS" tree="NNS">tubers</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="23">
+<s id="s23.1">
+ <chunk id="c23.1-1" type="NP">
+  <w id="w23.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w23.1.2" lem="8" pos="CD" tree="CD">8</w>
+ </chunk>
+</s></p></td><td class="">
+<p id="24">
+<s id="s24.1">
+ <chunk id="c24.1-1" type="NP">
+  <w id="w24.1.1" lem="edible" pos="NNP" tree="JJ">Edible</w>
+  <w id="w24.1.2" lem="fruit" pos="NN" tree="NN">fruit</w>
+  <w id="w24.1.3" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w24.1.4" lem="nut" pos="NNS" tree="NNS">nuts</w>
+ </chunk>
+ <w id="w24.1.5" lem=";" pos=":" tree=":">;</w>
+ <chunk id="c24.1-3" type="NP">
+  <w id="w24.1.6" lem="peel" pos="NN" tree="NN">peel</w>
+ </chunk>
+ <chunk id="c24.1-4" type="PP">
+  <w id="w24.1.7" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c24.1-5" type="NP">
+  <w id="w24.1.8" lem="melon" pos="NNS" tree="NNS">melons</w>
+  <w id="w24.1.9" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w24.1.10" lem="citrus" pos="NNS" tree="JJ">citrus</w>
+  <w id="w24.1.11" lem="fruit" pos="NN" tree="NN">fruit</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="25">
+<s id="s25.1">
+ <chunk id="c25.1-1" type="NP">
+  <w id="w25.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w25.1.2" lem="9" pos="CD" tree="CD">9</w>
+ </chunk>
+</s></p></td><td class="">
+<p id="26">
+<s id="s26.1">
+ <chunk id="c26.1-1" type="NP">
+  <w id="w26.1.1" lem="coffee" pos="NN" tree="NN">Coffee</w>
+ </chunk>
+ <w id="w26.1.2" lem="," pos="," tree=",">,</w>
+ <chunk id="c26.1-3" type="NP">
+  <w id="w26.1.3" lem="tea" pos="NN" tree="NN">tea</w>
+  <w id="w26.1.4" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w26.1.5" lem="spice" pos="NNS" tree="NNS">spices</w>
+ </chunk>
+ <w id="w26.1.6" lem="," pos="," tree=",">,</w>
+ <chunk id="c26.1-5" type="PP">
+  <w id="w26.1.7" lem="exclude" pos="JJ" tree="VVG">excluding</w>
+ </chunk>
+ <chunk id="c26.1-6" type="NP">
+  <w id="w26.1.8" pos="NN" tree="NN">maté</w>
+ </chunk>
+ <w id="w26.1.9" lem="(" pos="(" tree="(">(</w>
+ <chunk id="c26.1-8" type="NP">
+  <w id="w26.1.10" pos="CD" tree="NP">heading 0903 </w>
+ </chunk>
+ <w id="w26.1.11" lem=")" pos=")" tree=")">)</w>
+</s></p></td></tr><tr><td class="">
+<p id="27">
+<s id="s27.1">
+ <chunk id="c27.1-1" type="NP">
+  <w id="w27.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w27.1.2" lem="@card@" pos="CD" tree="CD">10</w>
+ </chunk>
+</s></p></td><td class="">
+<p id="28">
+<s id="s28.1">
+ <chunk id="c28.1-1" type="NP">
+  <w id="w28.1.1" lem="cereal" pos="NNS" tree="NNS">Cereals</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="29">
+<s id="s29.1">
+ <chunk id="c29.1-1" type="NP">
+  <w id="w29.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w29.1.2" lem="@card@" pos="CD" tree="CD">11</w>
+ </chunk>
+</s></p></td><td class="">
+<p id="30">
+<s id="s30.1">
+ <chunk id="c30.1-1" type="NP">
+  <w id="w30.1.1" lem="product" pos="NNS" tree="NNS">Products</w>
+ </chunk>
+ <chunk id="c30.1-2" type="PP">
+  <w id="w30.1.2" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c30.1-3" type="NP">
+  <w id="w30.1.3" lem="the" pos="DT" tree="DT">the</w>
+  <w id="w30.1.4" lem="milling" pos="NN" tree="NN">milling</w>
+  <w id="w30.1.5" lem="industry" pos="NN" tree="NN">industry</w>
+ </chunk>
+ <w id="w30.1.6" lem=";" pos=":" tree=":">;</w>
+ <chunk id="c30.1-5" type="NP">
+  <w id="w30.1.7" lem="malt" pos="NN" tree="NN">malt</w>
+  <w id="w30.1.8" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w30.1.9" lem="starch" pos="NNS" tree="NNS">starches</w>
+ </chunk>
+ <w id="w30.1.10" lem=";" pos=":" tree=":">;</w>
+ <chunk id="c30.1-7" type="NP">
+  <w id="w30.1.11" lem="gluten" pos="CD" tree="NN">gluten</w>
+  <w id="w30.1.12" lem=";" pos="NN" tree=":">;</w>
+  <w id="w30.1.13" pos="NN" tree="NN">inulin</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="31">
+<s id="s31.1">
+ <chunk id="c31.1-1" type="NP">
+  <w id="w31.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w31.1.2" lem="@card@" pos="CD" tree="CD">12</w>
+ </chunk>
+</s></p></td><td class="">
+<p id="32">
+<s id="s32.1">
+ <chunk id="c32.1-1" type="NP">
+  <w id="w32.1.1" lem="oil" pos="NN" tree="NN">Oil</w>
+  <w id="w32.1.2" lem="seed" pos="NNS" tree="NNS">seeds</w>
+ </chunk>
+ <w id="w32.1.3" lem="and" pos="CC" tree="CC">and</w>
+ <chunk id="c32.1-3" type="NP">
+  <w id="w32.1.4" lem="oleaginous" pos="JJ" tree="JJ">oleaginous</w>
+  <w id="w32.1.5" lem="fruit" pos="NN" tree="NN">fruit</w>
+ </chunk>
+ <w id="w32.1.6" lem=";" pos=":" tree=":">;</w>
+ <chunk id="c32.1-5" type="NP">
+  <w id="w32.1.7" lem="miscellaneous" pos="NNP" tree="JJ">miscellaneous</w>
+  <w id="w32.1.8" lem="grain" pos="NNS" tree="NNS">grains</w>
+ </chunk>
+ <w id="w32.1.9" lem="," pos="," tree=",">,</w>
+ <chunk id="c32.1-7" type="NP">
+  <w id="w32.1.10" lem="seed" pos="NNS" tree="NNS">seeds</w>
+ </chunk>
+ <w id="w32.1.11" lem="and" pos="CC" tree="CC">and</w>
+ <chunk id="c32.1-9" type="NP">
+  <w id="w32.1.12" lem="fruit" pos="JJ" tree="NN">fruit</w>
+  <w id="w32.1.13" lem=";" pos="JJ" tree=":">;</w>
+  <w id="w32.1.14" lem="industrial" pos="JJ" tree="JJ">industrial</w>
+  <w id="w32.1.15" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w32.1.16" lem="medical" pos="JJ" tree="JJ">medical</w>
+  <w id="w32.1.17" lem="plant" pos="NNS" tree="NNS">plants</w>
+ </chunk>
+ <w id="w32.1.18" lem=";" pos=":" tree=":">;</w>
+ <chunk id="c32.1-11" type="NP">
+  <w id="w32.1.19" lem="straw" pos="NN" tree="NN">straw</w>
+  <w id="w32.1.20" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w32.1.21" lem="fodder" pos="NN" tree="NN">fodder</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="33">
+<s id="s33.1">
+ <chunk id="c33.1-1" type="NP">
+  <w id="w33.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w33.1.2" lem="@card@" pos="CD" tree="CD">13</w>
+ </chunk>
+</s></p></td>
+<td class="" /></tr><tr><td class="">
+<p id="34">
+<s id="s34.1">
+ <chunk id="c34.1-1" type="NP">
+  <w id="w34.1.1" pos="CD" tree="NN">ex 13 03</w>
+ </chunk>
+</s></p></td><td class="">
+<p id="35">
+<s id="s35.1">
+ <chunk id="c35.1-1" type="NP">
+  <w id="w35.1.1" lem="pectin" pos="NNP" tree="NN">Pectin</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="36">
+<s id="s36.1">
+ <chunk id="c36.1-1" type="NP">
+  <w id="w36.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w36.1.2" lem="@card@" pos="CD" tree="CD">15</w>
+ </chunk>
+</s></p></td>
+<td class="" /></tr><tr><td class="">
+<p id="37">
+<s id="s37.1">
+ <chunk id="c37.1-1" type="NP">
+  <w id="w37.1.1" pos="CD" tree="NN">1501 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="38">
+<s id="s38.1">
+ <chunk id="c38.1-1" type="NP">
+  <w id="w38.1.1" lem="lard" pos="NNP" tree="NN">Lard</w>
+ </chunk>
+ <w id="w38.1.2" lem="and" pos="CC" tree="CC">and</w>
+ <chunk id="c38.1-3" type="NP">
+  <w id="w38.1.3" lem="other" pos="JJ" tree="JJ">other</w>
+  <w id="w38.1.4" lem="render" pos="JJ" tree="VVN">rendered</w>
+  <w id="w38.1.5" lem="pig" pos="NN" tree="NN">pig</w>
+  <w id="w38.1.6" lem="fat" pos="NN" tree="NN">fat</w>
+ </chunk>
+ <w id="w38.1.7" lem=";" pos=":" tree=":">;</w>
+ <chunk id="c38.1-5" type="NP">
+  <w id="w38.1.8" lem="render" pos="JJ" tree="VVN">rendered</w>
+  <w id="w38.1.9" lem="poultry" pos="NN" tree="NN">poultry</w>
+  <w id="w38.1.10" lem="fat" pos="NN" tree="NN">fat</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="39">
+<s id="s39.1">
+ <chunk id="c39.1-1" type="NP">
+  <w id="w39.1.1" pos="CD" tree="NN">1502 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="40">
+<s id="s40.1">
+ <chunk id="c40.1-1" type="NP">
+  <w id="w40.1.1" pos="JJ" tree="JJ">Unrendered</w>
+  <w id="w40.1.2" lem="fat" pos="NNS" tree="NNS">fats</w>
+ </chunk>
+ <chunk id="c40.1-2" type="PP">
+  <w id="w40.1.3" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c40.1-3" type="NP">
+  <w id="w40.1.4" lem="bovine" pos="NN" tree="JJ">bovine</w>
+  <w id="w40.1.5" lem="cattle" pos="NN" tree="NNS">cattle</w>
+ </chunk>
+ <w id="w40.1.6" lem="," pos="," tree=",">,</w>
+ <chunk id="c40.1-5" type="NP">
+  <w id="w40.1.7" lem="sheep" pos="NN" tree="NN">sheep</w>
+  <w id="w40.1.8" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w40.1.9" lem="goat" pos="NNS" tree="NNS">goats</w>
+ </chunk>
+ <w id="w40.1.10" lem=";" pos=":" tree=":">;</w>
+ <chunk id="c40.1-7" type="NP">
+  <w id="w40.1.11" lem="tallow" pos="NN" tree="VV">tallow</w>
+ </chunk>
+ <w id="w40.1.12" lem="(" pos="(" tree="(">(</w>
+ <chunk id="c40.1-9" type="PP">
+  <w id="w40.1.13" lem="include" pos="IN" tree="VVG">including</w>
+ </chunk>
+ <chunk id="c40.1-10" type="NP">
+  <w id="w40.1.14" pos="CD" tree="NN">&amp;amp; amp; amp</w>
+ </chunk>
+ <w id="w40.1.15" lem=";" pos="CD" tree=":">;</w>
+ <chunk id="c40.1-12" type="NP">
+  <w id="w40.1.16" pos="CD" tree="NN">#x2018</w>
+ </chunk>
+ <w id="w40.1.17" lem=";" pos=":" tree=":">;</w>
+ <chunk id="c40.1-14" type="NP">
+  <w id="w40.1.18" lem="premier" pos="NNP" tree="JJ">premier</w>
+  <w id="w40.1.19" lem="jus" pos="NNP" tree="NN">jus</w>
+  <w id="w40.1.20" pos="NNP" tree="NN">&amp;amp; amp; amp</w>
+  <w id="w40.1.21" lem=";" pos="NNP" tree=":">;</w>
+ </chunk>
+ <chunk id="c40.1-15" type="NP">
+  <w id="w40.1.22" pos="CD" tree="NN">#x2019</w>
+  <w id="w40.1.23" lem=";" pos="NN" tree=":">;</w>
+ </chunk>
+ <w id="w40.1.24" lem=")" pos=")" tree=")">)</w>
+ <chunk id="c40.1-17" type="VP">
+  <w id="w40.1.25" lem="produce" pos="VBD" tree="VVN">produced</w>
+ </chunk>
+ <chunk id="c40.1-18" type="PP">
+  <w id="w40.1.26" lem="from" pos="IN" tree="IN">from</w>
+ </chunk>
+ <chunk id="c40.1-19" type="NP">
+  <w id="w40.1.27" lem="those" pos="DT" tree="DT">those</w>
+  <w id="w40.1.28" lem="fat" pos="NNS" tree="NNS">fats</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="41">
+<s id="s41.1">
+ <chunk id="c41.1-1" type="NP">
+  <w id="w41.1.1" pos="CD" tree="NN">1503 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="42">
+<s id="s42.1">
+ <chunk id="c42.1-1" type="NP">
+  <w id="w42.1.1" lem="lard" pos="NNP" tree="NN">Lard</w>
+  <w id="w42.1.2" lem="stearin" pos="NN" tree="NN">stearin</w>
+ </chunk>
+ <w id="w42.1.3" lem="," pos="," tree=",">,</w>
+ <chunk id="c42.1-3" type="NP">
+  <w id="w42.1.4" pos="JJ" tree="NN">oleostearin</w>
+  <w id="w42.1.5" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w42.1.6" lem="tallow" pos="JJ" tree="NN">tallow</w>
+  <w id="w42.1.7" lem="stearin" pos="NN" tree="NN">stearin</w>
+ </chunk>
+ <w id="w42.1.8" lem=";" pos=":" tree=":">;</w>
+ <chunk id="c42.1-5" type="NP">
+  <w id="w42.1.9" lem="lard" pos="JJ" tree="NN">lard</w>
+  <w id="w42.1.10" lem="oil" pos="NN" tree="NN">oil</w>
+ </chunk>
+ <w id="w42.1.11" lem="," pos="," tree=",">,</w>
+ <chunk id="c42.1-7" type="NP">
+  <w id="w42.1.12" pos="NN" tree="NN">oleo-oil</w>
+  <w id="w42.1.13" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w42.1.14" lem="tallow" pos="JJ" tree="NN">tallow</w>
+  <w id="w42.1.15" lem="oil" pos="NN" tree="NN">oil</w>
+ </chunk>
+ <w id="w42.1.16" lem="," pos="," tree=",">,</w>
+ <w id="w42.1.17" lem="not" pos="RB" tree="RB">not</w>
+ <chunk id="c42.1-10" type="VP">
+  <w id="w42.1.18" lem="emulsify" pos="VBN" tree="VVN">emulsified</w>
+ </chunk>
+ <w id="w42.1.19" lem="or" pos="CC" tree="CC">or</w>
+ <chunk id="c42.1-12" type="ADJP">
+  <w id="w42.1.20" lem="mix" pos="JJ" tree="VVN">mixed</w>
+ </chunk>
+ <w id="w42.1.21" lem="or" pos="CC" tree="CC">or</w>
+ <chunk id="c42.1-14" type="VP">
+  <w id="w42.1.22" lem="prepare" pos="VBN" tree="VVN">prepared</w>
+ </chunk>
+ <chunk id="c42.1-15" type="PP">
+  <w id="w42.1.23" lem="in" pos="IN" tree="IN">in</w>
+ </chunk>
+ <chunk id="c42.1-16" type="NP">
+  <w id="w42.1.24" lem="any" pos="DT" tree="DT">any</w>
+  <w id="w42.1.25" lem="way" pos="NN" tree="NN">way</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="43">
+<s id="s43.1">
+ <chunk id="c43.1-1" type="NP">
+  <w id="w43.1.1" pos="CD" tree="NN">1504 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="44">
+<s id="s44.1">
+ <chunk id="c44.1-1" type="NP">
+  <w id="w44.1.1" lem="fat" pos="NNP" tree="NNS">Fats</w>
+  <w id="w44.1.2" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w44.1.3" lem="oil" pos="NN" tree="NN">oil</w>
+  <w id="w44.1.4" lem="," pos="NN" tree=",">,</w>
+ </chunk>
+ <chunk id="c44.1-2" type="PP">
+  <w id="w44.1.5" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c44.1-3" type="NP">
+  <w id="w44.1.6" lem="fish" pos="NN" tree="NN">fish</w>
+  <w id="w44.1.7" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w44.1.8" lem="marine" pos="JJ" tree="JJ">marine</w>
+  <w id="w44.1.9" lem="mammal" pos="NNS" tree="NNS">mammals</w>
+ </chunk>
+ <w id="w44.1.10" lem="," pos="," tree=",">,</w>
+ <chunk id="c44.1-5" type="NP">
+  <w id="w44.1.11" lem="whether" pos="NN" tree="IN">whether</w>
+  <w id="w44.1.12" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w44.1.13" lem="not" pos="RB" tree="RB">not</w>
+  <w id="w44.1.14" lem="refine" pos="VBN" tree="VVN">refined</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="45">
+<s id="s45.1">
+ <chunk id="c45.1-1" type="NP">
+  <w id="w45.1.1" pos="CD" tree="NN">1507 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="46">
+<s id="s46.1">
+ <chunk id="c46.1-1" type="NP">
+  <w id="w46.1.1" lem="fixed" pos="NNP" tree="JJ">Fixed</w>
+  <w id="w46.1.2" lem="vegetable" pos="NNP" tree="NN">vegetable</w>
+  <w id="w46.1.3" lem="oil" pos="NNS" tree="NNS">oils</w>
+ </chunk>
+ <w id="w46.1.4" lem="," pos="," tree=",">,</w>
+ <chunk id="c46.1-3" type="NP">
+  <w id="w46.1.5" lem="fluid" pos="NN" tree="JJ">fluid</w>
+  <w id="w46.1.6" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w46.1.7" lem="solid" pos="NN" tree="JJ">solid</w>
+ </chunk>
+ <w id="w46.1.8" lem="," pos="," tree=",">,</w>
+ <chunk id="c46.1-5" type="NP">
+  <w id="w46.1.9" lem="crude" pos="JJ" tree="NN">crude</w>
+ </chunk>
+ <w id="w46.1.10" lem="," pos="," tree=",">,</w>
+ <chunk id="c46.1-7" type="VP">
+  <w id="w46.1.11" lem="refine" pos="VBD" tree="VVN">refined</w>
+  <w id="w46.1.12" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w46.1.13" lem="purify" pos="VBN" tree="VVN">purified</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="47">
+<s id="s47.1">
+ <chunk id="c47.1-1" type="NP">
+  <w id="w47.1.1" pos="CD" tree="NN">1512 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="48">
+<s id="s48.1">
+ <chunk id="c48.1-1" type="NP">
+  <w id="w48.1.1" lem="animal" pos="NNP" tree="NN">Animal</w>
+  <w id="w48.1.2" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w48.1.3" lem="vegetable" pos="NN" tree="NN">vegetable</w>
+  <w id="w48.1.4" lem="fat" pos="NNS" tree="NNS">fats</w>
+  <w id="w48.1.5" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w48.1.6" lem="oil" pos="NNS" tree="NNS">oils</w>
+ </chunk>
+ <w id="w48.1.7" lem="," pos="," tree=",">,</w>
+ <chunk id="c48.1-3" type="VP">
+  <w id="w48.1.8" lem="hydrogenate" pos="VBN" tree="VVD">hydrogenated</w>
+ </chunk>
+ <w id="w48.1.9" lem="," pos="," tree=",">,</w>
+ <chunk id="c48.1-5" type="NP">
+  <w id="w48.1.10" lem="whether" pos="NN" tree="IN">whether</w>
+  <w id="w48.1.11" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w48.1.12" lem="not" pos="RB" tree="RB">not</w>
+  <w id="w48.1.13" lem="refine" pos="JJ" tree="VVN">refined</w>
+ </chunk>
+ <w id="w48.1.14" lem="," pos="," tree=",">,</w>
+ <w id="w48.1.15" lem="but" pos="CC" tree="CC">but</w>
+ <w id="w48.1.16" lem="not" pos="RB" tree="RB">not</w>
+ <chunk id="c48.1-9" type="ADVP">
+  <w id="w48.1.17" lem="further" pos="RB" tree="RBR">further</w>
+ </chunk>
+ <chunk id="c48.1-10" type="VP">
+  <w id="w48.1.18" lem="prepared" pos="VBD" tree="JJ">prepared</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="49">
+<s id="s49.1">
+ <chunk id="c49.1-1" type="NP">
+  <w id="w49.1.1" pos="CD" tree="NN">1513 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="50">
+<s id="s50.1">
+ <chunk id="c50.1-1" type="NP">
+  <w id="w50.1.1" lem="margarine" pos="NNP" tree="NN">Margarine</w>
+ </chunk>
+ <w id="w50.1.2" lem="," pos="," tree=",">,</w>
+ <chunk id="c50.1-3" type="NP">
+  <w id="w50.1.3" lem="imitation" pos="NN" tree="NN">imitation</w>
+  <w id="w50.1.4" lem="lard" pos="NN" tree="NN">lard</w>
+ </chunk>
+ <w id="w50.1.5" lem="and" pos="CC" tree="CC">and</w>
+ <chunk id="c50.1-5" type="NP">
+  <w id="w50.1.6" lem="other" pos="JJ" tree="JJ">other</w>
+  <w id="w50.1.7" lem="prepared" pos="JJ" tree="JJ">prepared</w>
+  <w id="w50.1.8" lem="edible" pos="NN" tree="JJ">edible</w>
+  <w id="w50.1.9" lem="fat" pos="NNS" tree="NNS">fats</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="51">
+<s id="s51.1">
+ <chunk id="c51.1-1" type="NP">
+  <w id="w51.1.1" pos="CD" tree="NN">1517 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="52">
+<s id="s52.1">
+ <chunk id="c52.1-1" type="NP">
+  <w id="w52.1.1" lem="residue" pos="NNS" tree="NNS">Residues</w>
+ </chunk>
+ <chunk id="c52.1-2" type="VP">
+  <w id="w52.1.2" lem="result" pos="VBG" tree="VVG">resulting</w>
+ </chunk>
+ <chunk id="c52.1-3" type="PP">
+  <w id="w52.1.3" lem="from" pos="IN" tree="IN">from</w>
+ </chunk>
+ <chunk id="c52.1-4" type="NP">
+  <w id="w52.1.4" lem="the" pos="DT" tree="DT">the</w>
+  <w id="w52.1.5" lem="treatment" pos="NN" tree="NN">treatment</w>
+ </chunk>
+ <chunk id="c52.1-5" type="PP">
+  <w id="w52.1.6" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c52.1-6" type="NP">
+  <w id="w52.1.7" lem="fatty" pos="NN" tree="JJ">fatty</w>
+  <w id="w52.1.8" lem="substance" pos="NNS" tree="NNS">substances</w>
+  <w id="w52.1.9" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w52.1.10" lem="animal" pos="NN" tree="NN">animal</w>
+  <w id="w52.1.11" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w52.1.12" lem="vegetable" pos="JJ" tree="NN">vegetable</w>
+  <w id="w52.1.13" lem="wax" pos="NNS" tree="NNS">waxes</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="53">
+<s id="s53.1">
+ <chunk id="c53.1-1" type="NP">
+  <w id="w53.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w53.1.2" lem="@card@" pos="CD" tree="CD">16</w>
+ </chunk>
+</s></p></td><td class="">
+<p id="54">
+<s id="s54.1">
+ <chunk id="c54.1-1" type="NP">
+  <w id="w54.1.1" lem="preparation" pos="NNS" tree="NNS">Preparations</w>
+ </chunk>
+ <chunk id="c54.1-2" type="PP">
+  <w id="w54.1.2" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c54.1-3" type="NP">
+  <w id="w54.1.3" lem="meat" pos="NN" tree="NN">meat</w>
+  <w id="w54.1.4" lem="," pos="NN" tree=",">,</w>
+ </chunk>
+ <chunk id="c54.1-4" type="PP">
+  <w id="w54.1.5" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c54.1-5" type="NP">
+  <w id="w54.1.6" lem="fish" pos="NN" tree="NN">fish</w>
+ </chunk>
+ <w id="w54.1.7" lem="," pos="," tree=",">,</w>
+ <chunk id="c54.1-7" type="PP">
+  <w id="w54.1.8" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c54.1-8" type="NP">
+  <w id="w54.1.9" lem="crustacean" pos="NNS" tree="NNS">crustaceans</w>
+  <w id="w54.1.10" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w54.1.11" lem="mollusc" pos="NNS" tree="NNS">molluscs</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="55">
+<s id="s55.1">
+ <chunk id="c55.1-1" type="NP">
+  <w id="w55.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w55.1.2" lem="@card@" pos="CD" tree="CD">17</w>
+ </chunk>
+</s></p></td>
+<td class="" /></tr><tr><td class="">
+<p id="56">
+<s id="s56.1">
+ <chunk id="c56.1-1" type="NP">
+  <w id="w56.1.1" pos="CD" tree="NN">1701 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="57">
+<s id="s57.1">
+ <chunk id="c57.1-1" type="NP">
+  <w id="w57.1.1" lem="beet" pos="JJ" tree="NN">Beet</w>
+  <w id="w57.1.2" lem="sugar" pos="NN" tree="NN">sugar</w>
+ </chunk>
+ <w id="w57.1.3" lem="and" pos="CC" tree="CC">and</w>
+ <chunk id="c57.1-3" type="NP">
+  <w id="w57.1.4" lem="cane" pos="JJ" tree="NN">cane</w>
+  <w id="w57.1.5" lem="sugar" pos="NN" tree="NN">sugar</w>
+ </chunk>
+ <w id="w57.1.6" lem="," pos="," tree=",">,</w>
+ <chunk id="c57.1-5" type="ADVP">
+  <w id="w57.1.7" lem="solid" pos="JJ" tree="JJ">solid</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="58">
+<s id="s58.1">
+ <chunk id="c58.1-1" type="NP">
+  <w id="w58.1.1" pos="CD" tree="NN">1702 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="59">
+<s id="s59.1">
+ <chunk id="c59.1-1" type="NP">
+  <w id="w59.1.1" lem="other" pos="JJ" tree="JJ">Other</w>
+  <w id="w59.1.2" lem="sugar" pos="NNS" tree="NNS">sugars</w>
+  <w id="w59.1.3" lem=";" pos="JJ" tree=":">;</w>
+ </chunk>
+ <chunk id="c59.1-2" type="NP">
+  <w id="w59.1.4" lem="sugar" pos="NN" tree="NN">sugar</w>
+  <w id="w59.1.5" lem="syrup" pos="NNS" tree="NNS">syrups</w>
+ </chunk>
+ <w id="w59.1.6" lem=";" pos=":" tree=":">;</w>
+ <chunk id="c59.1-4" type="NP">
+  <w id="w59.1.7" lem="artificial" pos="CD" tree="JJ">artificial</w>
+  <w id="w59.1.8" lem="honey" pos="NN" tree="NN">honey</w>
+ </chunk>
+ <w id="w59.1.9" lem="(" pos="(" tree="(">(</w>
+ <w id="w59.1.10" lem="whether" pos="NN" tree="IN">whether</w>
+ <w id="w59.1.11" lem="or" pos="CC" tree="CC">or</w>
+ <w id="w59.1.12" lem="not" pos="RB" tree="RB">not</w>
+ <chunk id="c59.1-9" type="ADJP">
+  <w id="w59.1.13" lem="mixed" pos="JJ" tree="JJ">mixed</w>
+ </chunk>
+ <chunk id="c59.1-10" type="PP">
+  <w id="w59.1.14" lem="with" pos="IN" tree="IN">with</w>
+ </chunk>
+ <chunk id="c59.1-11" type="NP">
+  <w id="w59.1.15" lem="natural" pos="JJ" tree="JJ">natural</w>
+  <w id="w59.1.16" lem="honey" pos="NN" tree="NN">honey</w>
+  <w id="w59.1.17" lem=")" pos="NN" tree=")">)</w>
+ </chunk>
+ <w id="w59.1.18" lem=";" pos=":" tree=":">;</w>
+ <chunk id="c59.1-13" type="NP">
+  <w id="w59.1.19" lem="caramel" pos="NN" tree="NN">caramel</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="60">
+<s id="s60.1">
+ <chunk id="c60.1-1" type="NP">
+  <w id="w60.1.1" pos="CD" tree="NN">1703 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="61">
+<s id="s61.1">
+ <chunk id="c61.1-1" type="NP">
+  <w id="w61.1.1" lem="molasses" pos="NNS" tree="NN">Molasses</w>
+ </chunk>
+ <w id="w61.1.2" lem="," pos="," tree=",">,</w>
+ <chunk id="c61.1-3" type="NP">
+  <w id="w61.1.3" lem="whether" pos="NN" tree="IN">whether</w>
+  <w id="w61.1.4" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w61.1.5" lem="not" pos="RB" tree="RB">not</w>
+  <w id="w61.1.6" lem="decolour" pos="VBN" tree="VVN">decolorised</w>
+ </chunk>
+</s></p></td></tr><tr><td class=""><p>
+<a id="62" class="noteRef" href="#Note_E0001_expl" name="Note_E0001_ref">
+<s id="s62.1">
+ <chunk id="c62.1-1" type="NP">
+  <w id="w62.1.1" lem="*" pos="NN" tree="SYM">*</w>
+ </chunk>
+</s></a>
+<p id="63">
+<s id="s63.1">
+ <w id="w63.1.1" lem=")" pos=")" tree=")">)</w>
+</s></p></p></td><td class="">
+<p id="64">
+<s id="s64.1">
+ <chunk id="c64.1-1" type="NP">
+  <w id="w64.1.1" lem="flavour" pos="JJ" tree="VVN">Flavoured</w>
+  <w id="w64.1.2" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w64.1.3" lem="colour" pos="JJ" tree="VVN">coloured</w>
+  <w id="w64.1.4" lem="sugar" pos="NNS" tree="NNS">sugars</w>
+ </chunk>
+ <w id="w64.1.5" lem="," pos="," tree=",">,</w>
+ <chunk id="c64.1-3" type="NP">
+  <w id="w64.1.6" lem="syrup" pos="NNS" tree="NNS">syrups</w>
+  <w id="w64.1.7" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w64.1.8" lem="molasses" pos="NNS" tree="NN">molasses</w>
+ </chunk>
+ <w id="w64.1.9" lem="," pos="," tree=",">,</w>
+ <chunk id="c64.1-5" type="CONJP">
+  <w id="w64.1.10" lem="but" pos="CC" tree="CC">but</w>
+  <w id="w64.1.11" lem="not" pos="RB" tree="RB">not</w>
+ </chunk>
+ <chunk id="c64.1-6" type="PP">
+  <w id="w64.1.12" lem="include" pos="IN" tree="VVG">including</w>
+ </chunk>
+ <chunk id="c64.1-7" type="NP">
+  <w id="w64.1.13" lem="fruit" pos="JJ" tree="NN">fruit</w>
+  <w id="w64.1.14" lem="juice" pos="NNS" tree="NNS">juices</w>
+ </chunk>
+ <chunk id="c64.1-8" type="VP">
+  <w id="w64.1.15" lem="contain" pos="VBG" tree="VVG">containing</w>
+ </chunk>
+ <chunk id="c64.1-9" type="NP">
+  <w id="w64.1.16" lem="add" pos="JJ" tree="JJ">added</w>
+  <w id="w64.1.17" lem="sugar" pos="NN" tree="NN">sugar</w>
+ </chunk>
+ <chunk id="c64.1-10" type="PP">
+  <w id="w64.1.18" lem="in" pos="IN" tree="IN">in</w>
+ </chunk>
+ <chunk id="c64.1-11" type="NP">
+  <w id="w64.1.19" lem="any" pos="DT" tree="DT">any</w>
+  <w id="w64.1.20" lem="proportion" pos="NN" tree="NN">proportion</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="65">
+<s id="s65.1">
+ <chunk id="c65.1-1" type="NP">
+  <w id="w65.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w65.1.2" lem="@card@" pos="CD" tree="CD">18</w>
+ </chunk>
+</s></p></td>
+<td class="" /></tr><tr><td class="">
+<p id="66">
+<s id="s66.1">
+ <chunk id="c66.1-1" type="NP">
+  <w id="w66.1.1" pos="CD" tree="NN">1801 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="67">
+<s id="s67.1">
+ <chunk id="c67.1-1" type="NP">
+  <w id="w67.1.1" lem="cocoa" pos="NNP" tree="NN">Cocoa</w>
+  <w id="w67.1.2" lem="bean" pos="NNS" tree="NNS">beans</w>
+ </chunk>
+ <w id="w67.1.3" lem="," pos="," tree=",">,</w>
+ <chunk id="c67.1-3" type="NP">
+  <w id="w67.1.4" lem="whole" pos="JJ" tree="JJ">whole</w>
+ </chunk>
+ <w id="w67.1.5" lem="or" pos="CC" tree="CC">or</w>
+ <chunk id="c67.1-5" type="NP">
+  <w id="w67.1.6" lem="broken" pos="JJ" tree="JJ">broken</w>
+ </chunk>
+ <w id="w67.1.7" lem="," pos="," tree=",">,</w>
+ <chunk id="c67.1-7" type="NP">
+  <w id="w67.1.8" lem="raw" pos="JJ" tree="JJ">raw</w>
+  <w id="w67.1.9" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w67.1.10" lem="roast" pos="VBN" tree="VVN">roasted</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="68">
+<s id="s68.1">
+ <chunk id="c68.1-1" type="NP">
+  <w id="w68.1.1" pos="CD" tree="NN">1802 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="69">
+<s id="s69.1">
+ <chunk id="c69.1-1" type="NP">
+  <w id="w69.1.1" lem="cocoa" pos="NNP" tree="NN">Cocoa</w>
+  <w id="w69.1.2" lem="shell" pos="NNS" tree="NNS">shells</w>
+ </chunk>
+ <w id="w69.1.3" lem="," pos="," tree=",">,</w>
+ <chunk id="c69.1-3" type="NP">
+  <w id="w69.1.4" lem="husk" pos="NNS" tree="NNS">husks</w>
+ </chunk>
+ <w id="w69.1.5" lem="," pos="," tree=",">,</w>
+ <chunk id="c69.1-5" type="NP">
+  <w id="w69.1.6" lem="skin" pos="NNS" tree="NNS">skins</w>
+  <w id="w69.1.7" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w69.1.8" lem="waste" pos="NN" tree="NN">waste</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="70">
+<s id="s70.1">
+ <chunk id="c70.1-1" type="NP">
+  <w id="w70.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w70.1.2" lem="@card@" pos="CD" tree="CD">20</w>
+ </chunk>
+</s></p></td><td class="">
+<p id="71">
+<s id="s71.1">
+ <chunk id="c71.1-1" type="NP">
+  <w id="w71.1.1" lem="preparation" pos="NNS" tree="NNS">Preparations</w>
+ </chunk>
+ <chunk id="c71.1-2" type="PP">
+  <w id="w71.1.2" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c71.1-3" type="NP">
+  <w id="w71.1.3" lem="vegetable" pos="NNS" tree="NNS">vegetables</w>
+ </chunk>
+ <w id="w71.1.4" lem="," pos="," tree=",">,</w>
+ <chunk id="c71.1-5" type="NP">
+  <w id="w71.1.5" lem="fruit" pos="NN" tree="NN">fruit</w>
+  <w id="w71.1.6" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w71.1.7" lem="other" pos="JJ" tree="JJ">other</w>
+  <w id="w71.1.8" lem="part" pos="NNS" tree="NNS">parts</w>
+ </chunk>
+ <chunk id="c71.1-6" type="PP">
+  <w id="w71.1.9" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c71.1-7" type="NP">
+  <w id="w71.1.10" lem="plant" pos="NNS" tree="NNS">plants</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="72">
+<s id="s72.1">
+ <chunk id="c72.1-1" type="NP">
+  <w id="w72.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w72.1.2" lem="@card@" pos="CD" tree="CD">22</w>
+ </chunk>
+</s></p></td>
+<td class="" /></tr><tr><td class="">
+<p id="73">
+<s id="s73.1">
+ <chunk id="c73.1-1" type="NP">
+  <w id="w73.1.1" pos="CD" tree="JJ">2204 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="74">
+<s id="s74.1">
+ <chunk id="c74.1-1" type="NP">
+  <w id="w74.1.1" lem="grape" pos="NNP" tree="NN">Grape</w>
+  <w id="w74.1.2" lem="must" pos="NNP" tree="MD">must</w>
+ </chunk>
+ <w id="w74.1.3" lem="," pos="," tree=",">,</w>
+ <chunk id="c74.1-3" type="PP">
+  <w id="w74.1.4" lem="in" pos="IN" tree="IN">in</w>
+ </chunk>
+ <chunk id="c74.1-4" type="NP">
+  <w id="w74.1.5" lem="fermentation" pos="NN" tree="NN">fermentation</w>
+  <w id="w74.1.6" lem="or" pos="CC" tree="CC">or</w>
+ </chunk>
+ <chunk id="c74.1-5" type="PP">
+  <w id="w74.1.7" lem="with" pos="IN" tree="IN">with</w>
+ </chunk>
+ <chunk id="c74.1-6" type="NP">
+  <w id="w74.1.8" lem="fermentation" pos="NN" tree="NN">fermentation</w>
+ </chunk>
+ <chunk id="c74.1-7" type="VP">
+  <w id="w74.1.9" lem="arrest" pos="VBN" tree="VVN">arrested</w>
+  <w id="w74.1.10" lem="otherwise" pos="RB" tree="RB">otherwise</w>
+ </chunk>
+ <chunk id="c74.1-8" type="PP">
+  <w id="w74.1.11" lem="than" pos="IN" tree="IN">than</w>
+ </chunk>
+ <chunk id="c74.1-9" type="PP">
+  <w id="w74.1.12" lem="by" pos="IN" tree="IN">by</w>
+ </chunk>
+ <chunk id="c74.1-10" type="NP">
+  <w id="w74.1.13" lem="the" pos="DT" tree="DT">the</w>
+  <w id="w74.1.14" lem="addition" pos="NN" tree="NN">addition</w>
+ </chunk>
+ <chunk id="c74.1-11" type="PP">
+  <w id="w74.1.15" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c74.1-12" type="NP">
+  <w id="w74.1.16" lem="alcohol" pos="NN" tree="NN">alcohol</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="75">
+<s id="s75.1">
+ <chunk id="c75.1-1" type="NP">
+  <w id="w75.1.1" pos="CD" tree="JJ">2205 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="76">
+<s id="s76.1">
+ <chunk id="c76.1-1" type="NP">
+  <w id="w76.1.1" lem="wine" pos="NN" tree="NN">Wine</w>
+ </chunk>
+ <chunk id="c76.1-2" type="PP">
+  <w id="w76.1.2" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c76.1-3" type="NP">
+  <w id="w76.1.3" lem="fresh" pos="JJ" tree="JJ">fresh</w>
+  <w id="w76.1.4" lem="grape" pos="NNS" tree="NNS">grapes</w>
+ </chunk>
+ <w id="w76.1.5" lem=";" pos=":" tree=":">;</w>
+ <chunk id="c76.1-5" type="NP">
+  <w id="w76.1.6" lem="grape" pos="NN" tree="NN">grape</w>
+  <w id="w76.1.7" lem="must" pos="NNS" tree="MD">must</w>
+ </chunk>
+ <chunk id="c76.1-6" type="PP">
+  <w id="w76.1.8" lem="with" pos="IN" tree="IN">with</w>
+ </chunk>
+ <chunk id="c76.1-7" type="NP">
+  <w id="w76.1.9" lem="fermentation" pos="NN" tree="NN">fermentation</w>
+ </chunk>
+ <chunk id="c76.1-8" type="VP">
+  <w id="w76.1.10" lem="arrest" pos="VBN" tree="VVN">arrested</w>
+ </chunk>
+ <chunk id="c76.1-9" type="PP">
+  <w id="w76.1.11" lem="by" pos="IN" tree="IN">by</w>
+ </chunk>
+ <chunk id="c76.1-10" type="NP">
+  <w id="w76.1.12" lem="the" pos="DT" tree="DT">the</w>
+  <w id="w76.1.13" lem="addition" pos="NN" tree="NN">addition</w>
+ </chunk>
+ <chunk id="c76.1-11" type="PP">
+  <w id="w76.1.14" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c76.1-12" type="NP">
+  <w id="w76.1.15" lem="alcohol" pos="NN" tree="NN">alcohol</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="77">
+<s id="s77.1">
+ <chunk id="c77.1-1" type="NP">
+  <w id="w77.1.1" pos="CD" tree="JJ">2207 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="78">
+<s id="s78.1">
+ <chunk id="c78.1-1" type="NP">
+  <w id="w78.1.1" lem="other" pos="JJ" tree="JJ">Other</w>
+  <w id="w78.1.2" lem="ferment" pos="JJ" tree="VVN">fermented</w>
+  <w id="w78.1.3" lem="beverage" pos="NNS" tree="NNS">beverages</w>
+ </chunk>
+ <w id="w78.1.4" lem="(" pos="(" tree="(">(</w>
+ <chunk id="c78.1-3" type="PP">
+  <w id="w78.1.5" lem="for" pos="IN" tree="IN">for</w>
+ </chunk>
+ <chunk id="c78.1-4" type="NP">
+  <w id="w78.1.6" lem="example" pos="NN" tree="NN">example</w>
+ </chunk>
+ <w id="w78.1.7" lem="," pos="," tree=",">,</w>
+ <chunk id="c78.1-6" type="NP">
+  <w id="w78.1.8" lem="cider" pos="NN" tree="NN">cider</w>
+ </chunk>
+ <w id="w78.1.9" lem="," pos="," tree=",">,</w>
+ <chunk id="c78.1-8" type="NP">
+  <w id="w78.1.10" lem="perry" pos="NN" tree="NN">perry</w>
+  <w id="w78.1.11" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w78.1.12" lem="mead" pos="NN" tree="NN">mead</w>
+ </chunk>
+ <w id="w78.1.13" lem=")" pos=")" tree=")">)</w>
+</s></p></td></tr><tr><td class=""><p>
+<a id="79" class="noteRef" href="#Note_E0001_expl" name="Note_E0001_ref">
+<s id="s79.1">
+ <chunk id="c79.1-1" type="NP">
+  <w id="w79.1.1" lem="*" pos="NN" tree="SYM">*</w>
+ </chunk>
+</s></a>)</p><p>
+<p id="80">
+<s id="s80.1">
+ <chunk id="c80.1-1" type="NP">
+  <w id="w80.1.1" pos="CD" tree="NN">ex 22 09(</w>
+ </chunk>
+</s></p>
+<a id="81" class="noteRef" href="#Note_E0001_expl" name="Note_E0001_ref">
+<s id="s81.1">
+ <chunk id="c81.1-1" type="NP">
+  <w id="w81.1.1" lem="*" pos="NN" tree="SYM">*</w>
+ </chunk>
+</s></a>
+<p id="82">
+<s id="s82.1">
+ <w id="w82.1.1" lem=")" pos=")" tree=")">)</w>
+</s></p></p></td><td class="">
+<p id="83">
+<s id="s83.1">
+ <chunk id="c83.1-1" type="NP">
+  <w id="w83.1.1" lem="Ethyl" pos="JJ" tree="NP">Ethyl</w>
+  <w id="w83.1.2" lem="alcohol" pos="NN" tree="NN">alcohol</w>
+  <w id="w83.1.3" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w83.1.4" lem="neutral" pos="JJ" tree="JJ">neutral</w>
+  <w id="w83.1.5" lem="spirit" pos="NNS" tree="NNS">spirits</w>
+ </chunk>
+ <w id="w83.1.6" lem="," pos="," tree=",">,</w>
+ <chunk id="c83.1-3" type="NP">
+  <w id="w83.1.7" lem="whether" pos="NN" tree="IN">whether</w>
+  <w id="w83.1.8" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w83.1.9" lem="not" pos="RB" tree="RB">not</w>
+  <w id="w83.1.10" lem="denature" pos="JJ" tree="VVN">denatured</w>
+  <w id="w83.1.11" lem="," pos="NN" tree=",">,</w>
+ </chunk>
+ <chunk id="c83.1-4" type="PP">
+  <w id="w83.1.12" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c83.1-5" type="NP">
+  <w id="w83.1.13" lem="any" pos="DT" tree="DT">any</w>
+  <w id="w83.1.14" lem="strength" pos="NN" tree="NN">strength</w>
+ </chunk>
+ <w id="w83.1.15" lem="," pos="," tree=",">,</w>
+ <chunk id="c83.1-7" type="VP">
+  <w id="w83.1.16" lem="obtain" pos="VBN" tree="VVN">obtained</w>
+ </chunk>
+ <chunk id="c83.1-8" type="PP">
+  <w id="w83.1.17" lem="from" pos="IN" tree="IN">from</w>
+ </chunk>
+ <chunk id="c83.1-9" type="NP">
+  <w id="w83.1.18" lem="agricultural" pos="JJ" tree="JJ">agricultural</w>
+  <w id="w83.1.19" lem="product" pos="NNS" tree="NNS">products</w>
+ </chunk>
+ <chunk id="c83.1-10" type="VP">
+  <w id="w83.1.20" lem="list" pos="VBN" tree="VVN">listed</w>
+ </chunk>
+ <chunk id="c83.1-11" type="PP">
+  <w id="w83.1.21" lem="in" pos="IN" tree="IN">in</w>
+ </chunk>
+ <chunk id="c83.1-12" type="NP">
+  <w id="w83.1.22" lem="this" pos="DT" tree="DT">this</w>
+  <w id="w83.1.23" lem="annex" pos="NNP" tree="NN">Annex</w>
+ </chunk>
+ <w id="w83.1.24" lem="," pos="," tree=",">,</w>
+ <chunk id="c83.1-14" type="PP">
+  <w id="w83.1.25" lem="exclude" pos="VBG" tree="VVG">excluding</w>
+ </chunk>
+ <chunk id="c83.1-15" type="NP">
+  <w id="w83.1.26" lem="liqueur" pos="NNS" tree="NNS">liqueurs</w>
+ </chunk>
+ <w id="w83.1.27" lem="and" pos="CC" tree="CC">and</w>
+ <chunk id="c83.1-17" type="NP">
+  <w id="w83.1.28" lem="other" pos="JJ" tree="JJ">other</w>
+  <w id="w83.1.29" lem="spirituous" pos="NNS" tree="JJ">spirituous</w>
+  <w id="w83.1.30" lem="beverage" pos="NNS" tree="NNS">beverages</w>
+ </chunk>
+ <w id="w83.1.31" lem="and" pos="CC" tree="CC">and</w>
+ <chunk id="c83.1-19" type="NP">
+  <w id="w83.1.32" lem="compound" pos="NN" tree="JJ">compound</w>
+  <w id="w83.1.33" lem="alcoholic" pos="NN" tree="JJ">alcoholic</w>
+  <w id="w83.1.34" lem="preparation" pos="NNS" tree="NNS">preparations</w>
+ </chunk>
+ <w id="w83.1.35" lem="(" pos="RB" tree="(">(</w>
+ <chunk id="c83.1-21" type="VP">
+  <w id="w83.1.36" lem="know" pos="VBN" tree="VVN">known</w>
+ </chunk>
+ <chunk id="c83.1-22" type="PP">
+  <w id="w83.1.37" lem="as" pos="IN" tree="IN">as</w>
+ </chunk>
+ <chunk id="c83.1-23" type="NP">
+  <w id="w83.1.38" pos="NN" tree="NN">&amp;amp; amp; amp</w>
+  <w id="w83.1.39" lem=";" pos="NN" tree=":">;</w>
+ </chunk>
+ <chunk id="c83.1-24" type="NP">
+  <w id="w83.1.40" pos="CD" tree="NN">#x2018</w>
+  <w id="w83.1.41" lem=";" pos="NN" tree=":">;</w>
+  <w id="w83.1.42" lem="concentrate" pos="VBN" tree="VVN">concentrated</w>
+  <w id="w83.1.43" lem="extract" pos="NNS" tree="VVZ">extracts</w>
+  <w id="w83.1.44" pos="NN" tree="NN">&amp;amp; amp; amp</w>
+ </chunk>
+ <w id="w83.1.45" lem=";" pos=":" tree=":">;</w>
+ <chunk id="c83.1-26" type="NP">
+  <w id="w83.1.46" pos="CD" tree="NN">#x2019</w>
+  <w id="w83.1.47" lem=";" pos="NN" tree=":">;</w>
+ </chunk>
+ <w id="w83.1.48" lem=")" pos=")" tree=")">)</w>
+ <chunk id="c83.1-28" type="PP">
+  <w id="w83.1.49" lem="for" pos="IN" tree="IN">for</w>
+ </chunk>
+ <chunk id="c83.1-29" type="NP">
+  <w id="w83.1.50" lem="the" pos="DT" tree="DT">the</w>
+  <w id="w83.1.51" lem="manufacture" pos="NN" tree="NN">manufacture</w>
+ </chunk>
+ <chunk id="c83.1-30" type="PP">
+  <w id="w83.1.52" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c83.1-31" type="NP">
+  <w id="w83.1.53" lem="beverage" pos="NNS" tree="NNS">beverages</w>
+ </chunk>
+</s></p></td></tr><tr><td class=""><p>
+<a id="84" class="noteRef" href="#Note_E0001_expl" name="Note_E0001_ref">
+<s id="s84.1">
+ <chunk id="c84.1-1" type="NP">
+  <w id="w84.1.1" lem="*" pos="NN" tree="SYM">*</w>
+ </chunk>
+</s></a>
+<p id="85">
+<s id="s85.1">
+ <w id="w85.1.1" lem=")" pos=")" tree=")">)</w>
+</s></p></p></td><td class="">
+<p id="86">
+<s id="s86.1">
+ <chunk id="c86.1-1" type="NP">
+  <w id="w86.1.1" lem="vinegar" pos="NNP" tree="NN">Vinegar</w>
+  <w id="w86.1.2" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w86.1.3" lem="substitute" pos="NNS" tree="NNS">substitutes</w>
+ </chunk>
+ <chunk id="c86.1-2" type="PP">
+  <w id="w86.1.4" lem="for" pos="IN" tree="IN">for</w>
+ </chunk>
+ <chunk id="c86.1-3" type="NP">
+  <w id="w86.1.5" lem="vinegar" pos="NN" tree="NN">vinegar</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="87">
+<s id="s87.1">
+ <chunk id="c87.1-1" type="NP">
+  <w id="w87.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w87.1.2" lem="@card@" pos="CD" tree="CD">23</w>
+ </chunk>
+</s></p></td><td class="">
+<p id="88">
+<s id="s88.1">
+ <chunk id="c88.1-1" type="NP">
+  <w id="w88.1.1" lem="residue" pos="NNS" tree="NNS">Residues</w>
+  <w id="w88.1.2" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w88.1.3" lem="waste" pos="NN" tree="NN">waste</w>
+ </chunk>
+ <chunk id="c88.1-2" type="PP">
+  <w id="w88.1.4" lem="from" pos="IN" tree="IN">from</w>
+ </chunk>
+ <chunk id="c88.1-3" type="NP">
+  <w id="w88.1.5" lem="the" pos="DT" tree="DT">the</w>
+  <w id="w88.1.6" lem="food" pos="NN" tree="NN">food</w>
+  <w id="w88.1.7" lem="industry" pos="NNS" tree="NNS">industries</w>
+ </chunk>
+ <w id="w88.1.8" lem=";" pos="RB" tree=":">;</w>
+ <chunk id="c88.1-5" type="NP">
+  <w id="w88.1.9" lem="prepared" pos="JJ" tree="JJ">prepared</w>
+  <w id="w88.1.10" lem="animal" pos="NN" tree="NN">animal</w>
+  <w id="w88.1.11" lem="fodder" pos="NNS" tree="NN">fodder</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="89">
+<s id="s89.1">
+ <chunk id="c89.1-1" type="NP">
+  <w id="w89.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w89.1.2" lem="@card@" pos="CD" tree="CD">24</w>
+ </chunk>
+</s></p></td>
+<td class="" /></tr><tr><td class="">
+<p id="90">
+<s id="s90.1">
+ <chunk id="c90.1-1" type="NP">
+  <w id="w90.1.1" pos="CD" tree="JJ">2401 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="91">
+<s id="s91.1">
+ <chunk id="c91.1-1" type="NP">
+  <w id="w91.1.1" pos="JJ" tree="JJ">Unmanufactured</w>
+  <w id="w91.1.2" lem="tobacco" pos="NN" tree="NN">tobacco</w>
+  <w id="w91.1.3" lem="," pos="," tree=",">,</w>
+  <w id="w91.1.4" lem="tobacco" pos="JJ" tree="NN">tobacco</w>
+  <w id="w91.1.5" lem="refuse" pos="NN" tree="NN">refuse</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="92">
+<s id="s92.1">
+ <chunk id="c92.1-1" type="NP">
+  <w id="w92.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w92.1.2" lem="@card@" pos="CD" tree="CD">45</w>
+ </chunk>
+</s></p></td>
+<td class="" /></tr><tr><td class="">
+<p id="93">
+<s id="s93.1">
+ <chunk id="c93.1-1" type="NP">
+  <w id="w93.1.1" pos="CD" tree="JJ">4501 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="94">
+<s id="s94.1">
+ <chunk id="c94.1-1" type="NP">
+  <w id="w94.1.1" lem="natural" pos="JJ" tree="JJ">Natural</w>
+  <w id="w94.1.2" lem="cork" pos="NN" tree="NN">cork</w>
+ </chunk>
+ <w id="w94.1.3" lem="," pos="," tree=",">,</w>
+ <chunk id="c94.1-3" type="VP">
+  <w id="w94.1.4" pos="VBN" tree="JJ">unworked</w>
+ </chunk>
+ <w id="w94.1.5" lem="," pos="," tree=",">,</w>
+ <chunk id="c94.1-5" type="VP">
+  <w id="w94.1.6" lem="crushed" pos="VBN" tree="JJ">crushed</w>
+ </chunk>
+ <w id="w94.1.7" lem="," pos="," tree=",">,</w>
+ <chunk id="c94.1-7" type="NP">
+  <w id="w94.1.8" lem="granulate" pos="JJ" tree="VVN">granulated</w>
+  <w id="w94.1.9" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w94.1.10" lem="ground" pos="NN" tree="NN">ground</w>
+ </chunk>
+ <w id="w94.1.11" lem=";" pos=":" tree=":">;</w>
+ <chunk id="c94.1-9" type="NP">
+  <w id="w94.1.12" lem="waste" pos="NN" tree="NN">waste</w>
+  <w id="w94.1.13" lem="cork" pos="NN" tree="NN">cork</w>
+ </chunk>
+</s></p></td></tr><tr><td class="">
+<p id="95">
+<s id="s95.1">
+ <chunk id="c95.1-1" type="NP">
+  <w id="w95.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w95.1.2" lem="@card@" pos="CD" tree="CD">54</w>
+ </chunk>
+</s></p></td>
+<td class="" /></tr><tr><td class="">
+<p id="96">
+<s id="s96.1">
+ <chunk id="c96.1-1" type="NP">
+  <w id="w96.1.1" pos="CD" tree="NN">5401 </w>
+ </chunk>
+</s></p></td><td class="">
+<p id="97">
+<s id="s97.1">
+ <chunk id="c97.1-1" type="NP">
+  <w id="w97.1.1" lem="Flax" pos="NNP" tree="NP">Flax</w>
+ </chunk>
+ <w id="w97.1.2" lem="," pos="," tree=",">,</w>
+ <chunk id="c97.1-3" type="NP">
+  <w id="w97.1.3" lem="raw" pos="JJ" tree="JJ">raw</w>
+  <w id="w97.1.4" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w97.1.5" lem="processed" pos="VBN" tree="JJ">processed</w>
+  <w id="w97.1.6" lem="but" pos="CC" tree="CC">but</w>
+  <w id="w97.1.7" lem="not" pos="RB" tree="RB">not</w>
+  <w id="w97.1.8" lem="spin" pos="JJ" tree="VVN">spun</w>
+ </chunk>
+ <w id="w97.1.9" lem=";" pos=":" tree=":">;</w>
+ <chunk id="c97.1-5" type="NP">
+  <w id="w97.1.10" lem="flax" pos="JJ" tree="NN">flax</w>
+  <w id="w97.1.11" lem="tow" pos="NN" tree="NN">tow</w>
+  <w id="w97.1.12" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w97.1.13" lem="waste" pos="NN" tree="NN">waste</w>
+  <w id="w97.1.14" lem="(" pos="NN" tree="(">(</w>
+ </chunk>
+ <chunk id="c97.1-6" type="PP">
+  <w id="w97.1.15" lem="include" pos="IN" tree="VVG">including</w>
+ </chunk>
+ <chunk id="c97.1-7" type="VP">
+  <w id="w97.1.16" lem="pull" pos="VBN" tree="VVN">pulled</w>
+ </chunk>
+ <chunk id="c97.1-8" type="PP">
+  <w id="w97.1.17" lem="or" pos="CC" tree="CC">or</w>
+ </chunk>
+ <chunk id="c97.1-9" type="NP">
+  <w id="w97.1.18" pos="JJ" tree="VVN">garnetted</w>
+  <w id="w97.1.19" lem="rag" pos="NNS" tree="NNS">rags</w>
+ </chunk>
+ <w id="w97.1.20" lem=")" pos=")" tree=")">)</w>
+</s></p></td></tr><tr><td class="">
+<p id="98">
+<s id="s98.1">
+ <chunk id="c98.1-1" type="NP">
+  <w id="w98.1.1" lem="chapter" pos="NNP" tree="NN">CHAPTER</w>
+  <w id="w98.1.2" lem="@card@" pos="CD" tree="CD">57</w>
+ </chunk>
+</s></p></td>
+<td class="" /></tr><tr><td class="">
+<p id="99">
+<s id="s99.1">
+ <chunk id="c99.1-1" type="NP">
+  <w id="w99.1.1" pos="CD" tree="NN">5701 </w>
+ </chunk>
+</s></p></td><td class=""><p>
+<i id="100">
+<s id="s100.1">
+ <chunk id="c100.1-1" type="NP">
+  <w id="w100.1.1" lem="cannabis" pos="NNP" tree="NN">Cannabis</w>
+  <w id="w100.1.2" pos="NNP" tree="NN">sativa</w>
+ </chunk>
+</s></i>
+<p id="101">
+<s id="s101.1">
+ <chunk id="c101.1-1" type="NP">
+  <w id="w101.1.1" lem=")" pos="NN" tree=")">)</w>
+ </chunk>
+ <w id="w101.1.2" lem="," pos="," tree=",">,</w>
+ <chunk id="c101.1-3" type="NP">
+  <w id="w101.1.3" lem="raw" pos="JJ" tree="JJ">raw</w>
+  <w id="w101.1.4" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w101.1.5" lem="processed" pos="VBN" tree="JJ">processed</w>
+  <w id="w101.1.6" lem="but" pos="CC" tree="CC">but</w>
+  <w id="w101.1.7" lem="not" pos="RB" tree="RB">not</w>
+  <w id="w101.1.8" lem="spin" pos="JJ" tree="VVN">spun</w>
+ </chunk>
+ <w id="w101.1.9" lem=";" pos=":" tree=":">;</w>
+ <chunk id="c101.1-5" type="NP">
+  <w id="w101.1.10" lem="tow" pos="NN" tree="NN">tow</w>
+  <w id="w101.1.11" lem="and" pos="CC" tree="CC">and</w>
+  <w id="w101.1.12" lem="waste" pos="NN" tree="NN">waste</w>
+ </chunk>
+ <chunk id="c101.1-6" type="PP">
+  <w id="w101.1.13" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c101.1-7" type="NP">
+  <w id="w101.1.14" lem="true" pos="JJ" tree="JJ">true</w>
+  <w id="w101.1.15" lem="hemp" pos="NN" tree="NN">hemp</w>
+ </chunk>
+ <w id="w101.1.16" lem="(" pos="(" tree="(">(</w>
+ <chunk id="c101.1-9" type="PP">
+  <w id="w101.1.17" lem="include" pos="VBG" tree="VVG">including</w>
+ </chunk>
+ <chunk id="c101.1-10" type="VP">
+  <w id="w101.1.18" lem="pull" pos="VBN" tree="VVN">pulled</w>
+ </chunk>
+ <chunk id="c101.1-11" type="PP">
+  <w id="w101.1.19" lem="or" pos="CC" tree="CC">or</w>
+ </chunk>
+ <chunk id="c101.1-12" type="NP">
+  <w id="w101.1.20" pos="JJ" tree="VVN">garnetted</w>
+  <w id="w101.1.21" lem="rag" pos="NNS" tree="NNS">rags</w>
+  <w id="w101.1.22" lem="or" pos="CC" tree="CC">or</w>
+  <w id="w101.1.23" lem="rope" pos="NNS" tree="NNS">ropes</w>
+ </chunk>
+ <w id="w101.1.24" lem=")" pos=")" tree=")">)</w>
+</s></p></p></td></tr><tr><td colspan="2"><table width="100%" border="1"><tr><td>
+<a id="102" class="noteRef" href="#Note_E0001_ref" name="Note_E0001_expl">
+<s id="s102.1">
+ <chunk id="c102.1-1" type="NP">
+  <w id="w102.1.1" lem="*" pos="NN" tree="SYM">*</w>
+ </chunk>
+</s></a>)</td><td><p>
+<p id="103">
+<s id="s103.1">
+ <chunk id="c103.1-1" type="NP">
+  <w id="w103.1.1" lem="head" pos="RB" tree="VVG">Heading</w>
+ </chunk>
+ <chunk id="c103.1-2" type="VP">
+  <w id="w103.1.2" lem="add" pos="VBN" tree="JJ">added</w>
+ </chunk>
+ <chunk id="c103.1-3" type="PP">
+  <w id="w103.1.3" lem="by" pos="IN" tree="IN">by</w>
+ </chunk>
+ <chunk id="c103.1-4" type="NP">
+  <w id="w103.1.4" pos="CD" tree="JJ">Article 1</w>
+ </chunk>
+ <chunk id="c103.1-5" type="PP">
+  <w id="w103.1.5" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c103.1-6" type="NP">
+  <w id="w103.1.6" pos="CD" tree="JJ">Regulation No 7</w>
+ </chunk>
+</s></p>
+<i id="104">
+<s id="s104.1">
+ <chunk id="c104.1-1" type="NP">
+  <w id="w104.1.1" lem="a" pos="NN" tree="DT">a</w>
+ </chunk>
+</s></i>
+<p id="105">
+<s id="s105.1">
+ <chunk id="c105.1-1" type="PP">
+  <w id="w105.1.1" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c105.1-2" type="NP">
+  <w id="w105.1.2" lem="the" pos="DT" tree="DT">the</w>
+  <w id="w105.1.3" lem="Council" pos="NNP" tree="NP">Council</w>
+ </chunk>
+ <chunk id="c105.1-3" type="PP">
+  <w id="w105.1.4" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c105.1-4" type="NP">
+  <w id="w105.1.5" lem="the" pos="DT" tree="DT">the</w>
+  <w id="w105.1.6" lem="European" pos="NNP" tree="NP">European</w>
+  <w id="w105.1.7" lem="Economic" pos="NNP" tree="NP">Economic</w>
+  <w id="w105.1.8" lem="Community" pos="NNP" tree="NP">Community</w>
+ </chunk>
+ <chunk id="c105.1-5" type="PP">
+  <w id="w105.1.9" lem="of" pos="IN" tree="IN">of</w>
+ </chunk>
+ <chunk id="c105.1-6" type="NP">
+  <w id="w105.1.10" pos="CD" tree="NP">18 December</w>
+  <w id="w105.1.11" lem="@card@" pos="CD" tree="CD">1959</w>
+ </chunk>
+ <w id="w105.1.12" lem="(" pos="(" tree="(">(</w>
+</s></p><a href="http://europa.eu.int/smartapi/cgi/sga_doc?smartapi!celexplus!prod!JO_RefPub&amp;lg=EN&amp;serie_jo=P&amp;an_jo=1961&amp;nu_jo=007">
+<p id="106">
+<s id="s106.1">
+ <chunk id="c106.1-1" type="NP">
+  <w id="w106.1.1" pos="CD" tree="JJ">OJ 7</w>
+ </chunk>
+ <w id="w106.1.2" lem="," pos="," tree=",">,</w>
+ <chunk id="c106.1-3" type="NP">
+  <w id="w106.1.3" lem="@card@" pos="CD" tree="CD">30.1.1961</w>
+ </chunk>
+ <w id="w106.1.4" lem="," pos="," tree=",">,</w>
+ <w id="w106.1.5" pos="NN" tree="NN">p.</w>
+</s> 
+ 
+
+
+<s id="s106.2">
+ <chunk id="c106.2-1" type="NP">
+  <w id="w106.2.1" lem="@card@" pos="CD" tree="CD">71</w>
+ </chunk>
+</s></p></a>
+<p id="107">
+<s id="s107.1">
+ <w id="w107.1.1" lem="." pos="." tree="SENT">.</w>
+</s> 
+ 
+
+
+<s id="s107.2">
+ <chunk id="c107.2-1" type="NP">
+  <w id="w107.2.1" lem="special" pos="NNP" tree="JJ">Special</w>
+  <w id="w107.2.2" lem="edition" pos="NNP" tree="NN">edition</w>
+ </chunk>
+ <w id="w107.2.3" lem="(" pos="NNP" tree="(">(</w>
+ <chunk id="c107.2-3" type="NP">
+  <w id="w107.2.4" lem="English" pos="NNP" tree="JJ">English</w>
+  <w id="w107.2.5" lem="edition" pos="NN" tree="NN">edition</w>
+ </chunk>
+ <w id="w107.2.6" lem=")" pos="RB" tree=")">)</w>
+ <chunk id="c107.2-5" type="NP">
+  <w id="w107.2.7" lem="@card@" pos="CD" tree="CD">1959-1962</w>
+ </chunk>
+ <w id="w107.2.8" lem="," pos="," tree=",">,</w>
+ <w id="w107.2.9" pos="NN" tree="NN">p.</w>
+</s> 
+ 
+
+
+<s id="s107.3">
+ <chunk id="c107.3-1" type="NP">
+  <w id="w107.3.1" lem="@card@" pos="CD" tree="CD">68</w>
+  <w id="w107.3.2" lem=")" pos="NN" tree=")">)</w>
+ </chunk>
+ <w id="w107.3.3" lem="." pos="." tree="SENT">.</w>
+</s></p></p></td></tr></table></td></tr></table></body>
+</html>

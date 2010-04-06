@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><head>
+<title id="1">
+<s id="s1.1">
+ <chunk id="c1.1-1" type="NP">
+  <w id="w1.1.1" tree="NP" pos="NNP">Celex</w>
+  <w lem="Test" id="w1.1.2" tree="NP" pos="NNP">Test</w>
+ </chunk>
+</s></title>
+
+<link xmlns="http://www.w3.org/1999/xhtml" type="text/css" rel="stylesheet" href="../../../../../css/traite.css" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /></head><body><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="2">
+<s id="s2.1">
+ <chunk id="c2.1-1" type="NP">
+  <w lem="@card@" id="w2.1.1" tree="CD" pos="CD">11</w>
+ </chunk>
+ <w lem="." id="w2.1.2" tree="SENT" pos=".">.</w>
+</s></td>
+<td class="textBlockTable_2" />
+<td class="textBlockTable_3" id="3">
+<s id="s3.1">
+ <chunk id="c3.1-1" type="NP">
+  <w lem="protocol" id="w3.1.1" tree="NN" pos="NNP">PROTOCOL</w>
+  <w lem="on" id="w3.1.2" tree="IN" pos="NNP">ON</w>
+ </chunk>
+ <chunk id="c3.1-2" type="NP">
+  <w lem="the" id="w3.1.3" tree="DT" pos="NNP">THE</w>
+  <w lem="convergence" id="w3.1.4" tree="NN" pos="NNP">CONVERGENCE</w>
+  <w lem="criterion" id="w3.1.5" tree="NNS" pos="NNP">CRITERIA</w>
+ </chunk>
+</s></td></tr></tbody></table><p>
+<p id="4">
+<s id="s4.1">
+ <chunk id="c4.1-1" type="NP">
+  <w lem="the" id="w4.1.1" tree="DT" pos="DT">THE</w>
+  <w lem="high" id="w4.1.2" tree="JJ" pos="NNP">HIGH</w>
+  <w lem="contracting" id="w4.1.3" tree="NN" pos="NNP">CONTRACTING</w>
+  <w lem="party" id="w4.1.4" tree="NNS" pos="NNP">PARTIES</w>
+ </chunk>
+ <w lem="," id="w4.1.5" tree="," pos=",">,</w>
+</s></p></p><p>
+<p id="5">
+<s id="s5.1">
+ <chunk id="c5.1-1" type="NP">
+  <w lem="desire" id="w5.1.1" tree="VVG" pos="NN">DESIRING</w>
+ </chunk>
+ <chunk id="c5.1-2" type="VP">
+  <w lem="to" id="w5.1.2" tree="TO" pos="TO">to</w>
+  <w lem="lay" id="w5.1.3" tree="VV" pos="VB">lay</w>
+ </chunk>
+ <chunk id="c5.1-3" type="PRT">
+  <w lem="down" id="w5.1.4" tree="RP" pos="RP">down</w>
+ </chunk>
+ <chunk id="c5.1-4" type="NP">
+  <w lem="the" id="w5.1.5" tree="DT" pos="DT">the</w>
+  <w lem="detail" id="w5.1.6" tree="NNS" pos="NNS">details</w>
+ </chunk>
+ <chunk id="c5.1-5" type="PP">
+  <w lem="of" id="w5.1.7" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c5.1-6" type="NP">
+  <w lem="the" id="w5.1.8" tree="DT" pos="DT">the</w>
+  <w lem="convergence" id="w5.1.9" tree="NN" pos="NN">convergence</w>
+  <w lem="criterion" id="w5.1.10" tree="NNS" pos="NN">criteria</w>
+ </chunk>
+ <chunk id="c5.1-7" type="NP">
+  <w lem="which" id="w5.1.11" tree="WDT" pos="WDT">which</w>
+ </chunk>
+ <chunk id="c5.1-8" type="VP">
+  <w lem="shall" id="w5.1.12" tree="MD" pos="MD">shall</w>
+  <w lem="guide" id="w5.1.13" tree="VV" pos="VB">guide</w>
+ </chunk>
+ <chunk id="c5.1-9" type="NP">
+  <w lem="the" id="w5.1.14" tree="DT" pos="DT">the</w>
+  <w lem="Union" id="w5.1.15" tree="NP" pos="NNP">Union</w>
+ </chunk>
+ <chunk id="c5.1-10" type="PP">
+  <w lem="in" id="w5.1.16" tree="IN" pos="IN">in</w>
+ </chunk>
+ <chunk id="c5.1-11" type="VP">
+  <w lem="take" id="w5.1.17" tree="VVG" pos="VBG">taking</w>
+ </chunk>
+ <chunk id="c5.1-12" type="NP">
+  <w lem="decision" id="w5.1.18" tree="NNS" pos="NNS">decisions</w>
+ </chunk>
+ <chunk id="c5.1-13" type="VP">
+  <w lem="refer" id="w5.1.19" tree="VVD" pos="VBN">referred</w>
+ </chunk>
+ <chunk id="c5.1-14" type="PP">
+  <w lem="to" id="w5.1.20" tree="TO" pos="TO">to</w>
+ </chunk>
+ <chunk id="c5.1-15" type="PP">
+  <w lem="in" id="w5.1.21" tree="IN" pos="IN">in</w>
+ </chunk>
+ <chunk id="c5.1-16" type="NP">
+  <w id="w5.1.22" tree="CD" pos="CD">Article III-198</w>
+ </chunk>
+ <chunk id="c5.1-17" type="PP">
+  <w lem="of" id="w5.1.23" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c5.1-18" type="NP">
+  <w lem="the" id="w5.1.24" tree="DT" pos="DT">the</w>
+  <w lem="Constitution" id="w5.1.25" tree="NP" pos="NNP">Constitution</w>
+ </chunk>
+ <chunk id="c5.1-19" type="VP">
+  <w lem="to" id="w5.1.26" tree="TO" pos="TO">to</w>
+  <w lem="end" id="w5.1.27" tree="VV" pos="VB">end</w>
+ </chunk>
+ <chunk id="c5.1-20" type="NP">
+  <w lem="the" id="w5.1.28" tree="DT" pos="DT">the</w>
+  <w lem="derogation" id="w5.1.29" tree="NNS" pos="NNS">derogations</w>
+ </chunk>
+ <chunk id="c5.1-21" type="PP">
+  <w lem="of" id="w5.1.30" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c5.1-22" type="NP">
+  <w lem="those" id="w5.1.31" tree="DT" pos="DT">those</w>
+  <w lem="Member" id="w5.1.32" tree="NP" pos="NNP">Member</w>
+  <w lem="States" id="w5.1.33" tree="NPS" pos="NNPS">States</w>
+ </chunk>
+ <chunk id="c5.1-23" type="PP">
+  <w lem="with" id="w5.1.34" tree="IN" pos="IN">with</w>
+ </chunk>
+ <chunk id="c5.1-24" type="NP">
+  <w lem="a" id="w5.1.35" tree="DT" pos="DT">a</w>
+  <w lem="derogation" id="w5.1.36" tree="NN" pos="NN">derogation</w>
+ </chunk>
+ <w lem="," id="w5.1.37" tree="," pos=",">,</w>
+</s></p></p><p>
+<p id="6">
+<s id="s6.1">
+ <chunk id="c6.1-1" type="NP">
+  <w lem="have" id="w6.1.1" tree="VHP" pos="JJ">HAVE</w>
+  <w lem="agree" id="w6.1.2" tree="VVN" pos="NN">AGREED</w>
+ </chunk>
+ <chunk id="c6.1-2" type="PP">
+  <w lem="upon" id="w6.1.3" tree="IN" pos="IN">upon</w>
+ </chunk>
+ <chunk id="c6.1-3" type="NP">
+  <w lem="the" id="w6.1.4" tree="DT" pos="DT">the</w>
+  <w lem="follow" id="w6.1.5" tree="VVG" pos="JJ">following</w>
+  <w lem="provision" id="w6.1.6" tree="NNS" pos="NNS">provisions</w>
+ </chunk>
+ <w lem="," id="w6.1.7" tree="," pos=",">,</w>
+ <chunk id="c6.1-5" type="NP">
+  <w lem="which" id="w6.1.8" tree="WDT" pos="WDT">which</w>
+ </chunk>
+ <chunk id="c6.1-6" type="VP">
+  <w lem="shall" id="w6.1.9" tree="MD" pos="MD">shall</w>
+  <w lem="be" id="w6.1.10" tree="VB" pos="VB">be</w>
+  <w lem="annex" id="w6.1.11" tree="VVN" pos="VBN">annexed</w>
+ </chunk>
+ <chunk id="c6.1-7" type="PP">
+  <w lem="to" id="w6.1.12" tree="TO" pos="TO">to</w>
+ </chunk>
+ <chunk id="c6.1-8" type="NP">
+  <w lem="the" id="w6.1.13" tree="DT" pos="DT">the</w>
+  <w lem="Treaty" id="w6.1.14" tree="NP" pos="NN">Treaty</w>
+ </chunk>
+ <chunk id="c6.1-9" type="VP">
+  <w lem="establish" id="w6.1.15" tree="VVG" pos="VBD">establishing</w>
+ </chunk>
+ <chunk id="c6.1-10" type="NP">
+  <w lem="a" id="w6.1.16" tree="DT" pos="DT">a</w>
+  <w lem="Constitution" id="w6.1.17" tree="NP" pos="NNP">Constitution</w>
+ </chunk>
+ <chunk id="c6.1-11" type="PP">
+  <w lem="for" id="w6.1.18" tree="IN" pos="IN">for</w>
+ </chunk>
+ <chunk id="c6.1-12" type="NP">
+  <w lem="Europe" id="w6.1.19" tree="NP" pos="NNP">Europe</w>
+ </chunk>
+ <w lem=":" id="w6.1.20" tree=":" pos=":">:</w>
+</s></p></p><a name="anArt1">
+<p class="ArticleTi" id="7">
+<s id="s7.1">
+ <chunk id="c7.1-1" type="NP">
+  <w id="w7.1.1" tree="JJ" pos="CD">Article 1</w>
+ </chunk>
+</s></p></a>
+<p id="8">
+<s id="s8.1">
+ <chunk id="c8.1-1" type="NP">
+  <w lem="the" id="w8.1.1" tree="DT" pos="DT">The</w>
+  <w lem="criterion" id="w8.1.2" tree="NN" pos="NN">criterion</w>
+ </chunk>
+ <chunk id="c8.1-2" type="PP">
+  <w lem="on" id="w8.1.3" tree="IN" pos="IN">on</w>
+ </chunk>
+ <chunk id="c8.1-3" type="NP">
+  <w lem="price" id="w8.1.4" tree="NN" pos="NN">price</w>
+  <w lem="stability" id="w8.1.5" tree="NN" pos="NN">stability</w>
+ </chunk>
+ <chunk id="c8.1-4" type="VP">
+  <w lem="refer" id="w8.1.6" tree="VVD" pos="VBD">referred</w>
+ </chunk>
+ <chunk id="c8.1-5" type="PP">
+  <w lem="to" id="w8.1.7" tree="TO" pos="NN">to</w>
+ </chunk>
+ <chunk id="c8.1-6" type="PP">
+  <w lem="in" id="w8.1.8" tree="IN" pos="IN">in</w>
+ </chunk>
+ <chunk id="c8.1-7" type="NP">
+  <w id="w8.1.9" tree="NP" pos="JJ">Article III-198(1)(a</w>
+  <w lem=")" id="w8.1.10" tree=")" pos="NN">)</w>
+ </chunk>
+ <chunk id="c8.1-8" type="PP">
+  <w lem="of" id="w8.1.11" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c8.1-9" type="NP">
+  <w lem="the" id="w8.1.12" tree="DT" pos="DT">the</w>
+  <w lem="Constitution" id="w8.1.13" tree="NP" pos="NNP">Constitution</w>
+ </chunk>
+ <chunk id="c8.1-10" type="VP">
+  <w lem="shall" id="w8.1.14" tree="MD" pos="MD">shall</w>
+  <w lem="mean" id="w8.1.15" tree="VV" pos="VB">mean</w>
+ </chunk>
+ <chunk id="c8.1-11" type="SBAR">
+  <w lem="that" id="w8.1.16" tree="IN" pos="IN">that</w>
+ </chunk>
+ <chunk id="c8.1-12" type="NP">
+  <w lem="the" id="w8.1.17" tree="DT" pos="DT">the</w>
+  <w lem="Member" id="w8.1.18" tree="NP" pos="NNP">Member</w>
+  <w lem="State" id="w8.1.19" tree="NP" pos="NNP">State</w>
+  <w lem="concern" id="w8.1.20" tree="VVN" pos="NNP">concerned</w>
+ </chunk>
+ <chunk id="c8.1-13" type="VP">
+  <w lem="have" id="w8.1.21" tree="VHZ" pos="VBZ">has</w>
+ </chunk>
+ <chunk id="c8.1-14" type="NP">
+  <w lem="a" id="w8.1.22" tree="DT" pos="DT">a</w>
+  <w lem="price" id="w8.1.23" tree="NN" pos="NN">price</w>
+  <w lem="performance" id="w8.1.24" tree="NN" pos="NN">performance</w>
+ </chunk>
+ <chunk id="c8.1-15" type="NP">
+  <w lem="that" id="w8.1.25" tree="WDT" pos="WDT">that</w>
+ </chunk>
+ <chunk id="c8.1-16" type="VP">
+  <w lem="be" id="w8.1.26" tree="VBZ" pos="VBZ">is</w>
+ </chunk>
+ <chunk id="c8.1-17" type="NP">
+  <w lem="sustainable" id="w8.1.27" tree="JJ" pos="NN">sustainable</w>
+ </chunk>
+ <w lem="and" id="w8.1.28" tree="CC" pos="CC">and</w>
+ <chunk id="c8.1-19" type="NP">
+  <w lem="an" id="w8.1.29" tree="DT" pos="DT">an</w>
+  <w lem="average" id="w8.1.30" tree="JJ" pos="JJ">average</w>
+  <w lem="rate" id="w8.1.31" tree="NN" pos="NN">rate</w>
+ </chunk>
+ <chunk id="c8.1-20" type="PP">
+  <w lem="of" id="w8.1.32" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c8.1-21" type="NP">
+  <w lem="inflation" id="w8.1.33" tree="NN" pos="NN">inflation</w>
+ </chunk>
+ <w lem="," id="w8.1.34" tree="," pos=",">,</w>
+ <chunk id="c8.1-23" type="VP">
+  <w lem="observe" id="w8.1.35" tree="VVD" pos="VBD">observed</w>
+ </chunk>
+ <chunk id="c8.1-24" type="PP">
+  <w lem="over" id="w8.1.36" tree="IN" pos="IN">over</w>
+ </chunk>
+ <chunk id="c8.1-25" type="NP">
+  <w lem="a" id="w8.1.37" tree="DT" pos="DT">a</w>
+  <w lem="period" id="w8.1.38" tree="NN" pos="NN">period</w>
+ </chunk>
+ <chunk id="c8.1-26" type="PP">
+  <w lem="of" id="w8.1.39" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c8.1-27" type="NP">
+  <w lem="one" id="w8.1.40" tree="CD" pos="CD">one</w>
+  <w lem="year" id="w8.1.41" tree="NN" pos="NN">year</w>
+ </chunk>
+ <chunk id="c8.1-28" type="PP">
+  <w lem="before" id="w8.1.42" tree="IN" pos="IN">before</w>
+ </chunk>
+ <chunk id="c8.1-29" type="NP">
+  <w lem="the" id="w8.1.43" tree="DT" pos="DT">the</w>
+  <w lem="examination" id="w8.1.44" tree="NN" pos="NN">examination</w>
+ </chunk>
+ <w lem="," id="w8.1.45" tree="," pos=",">,</w>
+ <chunk id="c8.1-31" type="NP">
+  <w lem="that" id="w8.1.46" tree="WDT" pos="WDT">that</w>
+ </chunk>
+ <chunk id="c8.1-32" type="VP">
+  <w lem="do" id="w8.1.47" tree="VVZ" pos="VBZ">does</w>
+  <w lem="not" id="w8.1.48" tree="RB" pos="RB">not</w>
+  <w lem="exceed" id="w8.1.49" tree="VV" pos="VB">exceed</w>
+ </chunk>
+ <chunk id="c8.1-33" type="PP">
+  <w lem="by" id="w8.1.50" tree="IN" pos="IN">by</w>
+ </chunk>
+ <chunk id="c8.1-34" type="NP">
+  <w lem="more" id="w8.1.51" tree="JJR" pos="JJR">more</w>
+  <w lem="than" id="w8.1.52" tree="IN" pos="IN">than</w>
+  <w lem="@card@" id="w8.1.53" tree="CD" pos="CD">1,5</w>
+  <w lem="percentage" id="w8.1.54" tree="NN" pos="NN">percentage</w>
+  <w lem="point" id="w8.1.55" tree="NNS" pos="NNS">points</w>
+ </chunk>
+ <chunk id="c8.1-35" type="PP">
+  <w lem="that" id="w8.1.56" tree="IN" pos="IN">that</w>
+ </chunk>
+ <chunk id="c8.1-36" type="PP">
+  <w lem="of" id="w8.1.57" tree="IN" pos="NN">of</w>
+ </chunk>
+ <chunk id="c8.1-37" type="NP">
+  <w lem="," id="w8.1.58" tree="," pos="NN">,</w>
+ </chunk>
+ <chunk id="c8.1-38" type="PP">
+  <w lem="at" id="w8.1.59" tree="IN" pos="IN">at</w>
+ </chunk>
+ <chunk id="c8.1-39" type="NP">
+  <w lem="most" id="w8.1.60" tree="JJS" pos="JJS">most</w>
+ </chunk>
+ <w lem="," id="w8.1.61" tree="," pos=",">,</w>
+ <chunk id="c8.1-41" type="NP">
+  <w lem="the" id="w8.1.62" tree="DT" pos="DT">the</w>
+  <w lem="three" id="w8.1.63" tree="CD" pos="CD">three</w>
+  <w lem="good" id="w8.1.64" tree="JJS" pos="JJS">best</w>
+  <w lem="perform" id="w8.1.65" tree="VVG" pos="NN">performing</w>
+  <w lem="Member" id="w8.1.66" tree="NP" pos="NNP">Member</w>
+  <w lem="States" id="w8.1.67" tree="NPS" pos="NNP">States</w>
+ </chunk>
+ <chunk id="c8.1-42" type="PP">
+  <w lem="in" id="w8.1.68" tree="IN" pos="IN">in</w>
+ </chunk>
+ <chunk id="c8.1-43" type="NP">
+  <w lem="term" id="w8.1.69" tree="NNS" pos="NNS">terms</w>
+ </chunk>
+ <chunk id="c8.1-44" type="PP">
+  <w lem="of" id="w8.1.70" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c8.1-45" type="NP">
+  <w lem="price" id="w8.1.71" tree="NN" pos="NN">price</w>
+  <w lem="stability" id="w8.1.72" tree="NN" pos="NN">stability</w>
+ </chunk>
+ <w lem="." id="w8.1.73" tree="SENT" pos=".">.</w>
+</s> 
+ 
+
+
+<s id="s8.2">
+ <chunk id="c8.2-1" type="NP">
+  <w lem="inflation" id="w8.2.1" tree="NN" pos="NN">Inflation</w>
+ </chunk>
+ <chunk id="c8.2-2" type="VP">
+  <w lem="shall" id="w8.2.2" tree="MD" pos="MD">shall</w>
+  <w lem="be" id="w8.2.3" tree="VB" pos="VB">be</w>
+  <w lem="measured" id="w8.2.4" tree="VVN" pos="VBN">measured</w>
+ </chunk>
+ <chunk id="c8.2-3" type="PP">
+  <w lem="by" id="w8.2.5" tree="IN" pos="IN">by</w>
+ </chunk>
+ <chunk id="c8.2-4" type="NP">
+  <w lem="mean" id="w8.2.6" tree="NNS" pos="NNS">means</w>
+ </chunk>
+ <chunk id="c8.2-5" type="PP">
+  <w lem="of" id="w8.2.7" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c8.2-6" type="NP">
+  <w lem="the" id="w8.2.8" tree="DT" pos="DT">the</w>
+  <w lem="consumer" id="w8.2.9" tree="NN" pos="NN">consumer</w>
+  <w lem="price" id="w8.2.10" tree="NN" pos="NN">price</w>
+  <w lem="index" id="w8.2.11" tree="NN" pos="NN">index</w>
+ </chunk>
+ <chunk id="c8.2-7" type="PP">
+  <w lem="on" id="w8.2.12" tree="IN" pos="IN">on</w>
+ </chunk>
+ <chunk id="c8.2-8" type="NP">
+  <w lem="a" id="w8.2.13" tree="DT" pos="DT">a</w>
+  <w lem="comparable" id="w8.2.14" tree="JJ" pos="JJ">comparable</w>
+  <w lem="basis" id="w8.2.15" tree="NN" pos="NN">basis</w>
+ </chunk>
+ <w lem="," id="w8.2.16" tree="," pos=",">,</w>
+ <chunk id="c8.2-10" type="VP">
+  <w lem="take" id="w8.2.17" tree="VVG" pos="VBG">taking</w>
+ </chunk>
+ <chunk id="c8.2-11" type="PP">
+  <w lem="into" id="w8.2.18" tree="IN" pos="IN">into</w>
+ </chunk>
+ <chunk id="c8.2-12" type="NP">
+  <w lem="account" id="w8.2.19" tree="NN" pos="NN">account</w>
+  <w lem="difference" id="w8.2.20" tree="NNS" pos="NNS">differences</w>
+ </chunk>
+ <chunk id="c8.2-13" type="PP">
+  <w lem="in" id="w8.2.21" tree="IN" pos="IN">in</w>
+ </chunk>
+ <chunk id="c8.2-14" type="NP">
+  <w lem="national" id="w8.2.22" tree="JJ" pos="JJ">national</w>
+  <w lem="definition" id="w8.2.23" tree="NNS" pos="NNS">definitions</w>
+ </chunk>
+ <w lem="." id="w8.2.24" tree="SENT" pos=".">.</w>
+</s></p><a name="anArt2">
+<p class="ArticleTi" id="9">
+<s id="s9.1">
+ <chunk id="c9.1-1" type="NP">
+  <w id="w9.1.1" tree="NN" pos="CD">Article 2</w>
+ </chunk>
+</s></p></a>
+<p id="10">
+<s id="s10.1">
+ <chunk id="c10.1-1" type="NP">
+  <w lem="the" id="w10.1.1" tree="DT" pos="DT">The</w>
+  <w lem="criterion" id="w10.1.2" tree="NN" pos="NN">criterion</w>
+ </chunk>
+ <chunk id="c10.1-2" type="PP">
+  <w lem="on" id="w10.1.3" tree="IN" pos="IN">on</w>
+ </chunk>
+ <chunk id="c10.1-3" type="NP">
+  <w lem="the" id="w10.1.4" tree="DT" pos="DT">the</w>
+  <w lem="government" id="w10.1.5" tree="NN" pos="NN">government</w>
+  <w lem="budgetary" id="w10.1.6" tree="JJ" pos="NN">budgetary</w>
+  <w lem="position" id="w10.1.7" tree="NN" pos="NN">position</w>
+ </chunk>
+ <chunk id="c10.1-4" type="VP">
+  <w lem="refer" id="w10.1.8" tree="VVD" pos="VBD">referred</w>
+ </chunk>
+ <chunk id="c10.1-5" type="PP">
+  <w lem="to" id="w10.1.9" tree="TO" pos="NN">to</w>
+ </chunk>
+ <chunk id="c10.1-6" type="PP">
+  <w lem="in" id="w10.1.10" tree="IN" pos="IN">in</w>
+ </chunk>
+ <chunk id="c10.1-7" type="NP">
+  <w id="w10.1.11" tree="NP" pos="JJ">Article III-198(1)(b</w>
+  <w lem=")" id="w10.1.12" tree=")" pos="NN">)</w>
+ </chunk>
+ <chunk id="c10.1-8" type="PP">
+  <w lem="of" id="w10.1.13" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c10.1-9" type="NP">
+  <w lem="the" id="w10.1.14" tree="DT" pos="DT">the</w>
+  <w lem="Constitution" id="w10.1.15" tree="NP" pos="NNP">Constitution</w>
+ </chunk>
+ <chunk id="c10.1-10" type="VP">
+  <w lem="shall" id="w10.1.16" tree="MD" pos="MD">shall</w>
+  <w lem="mean" id="w10.1.17" tree="VV" pos="VB">mean</w>
+ </chunk>
+ <chunk id="c10.1-11" type="SBAR">
+  <w lem="that" id="w10.1.18" tree="IN" pos="IN">that</w>
+ </chunk>
+ <chunk id="c10.1-12" type="PP">
+  <w lem="at" id="w10.1.19" tree="IN" pos="IN">at</w>
+ </chunk>
+ <chunk id="c10.1-13" type="NP">
+  <w lem="the" id="w10.1.20" tree="DT" pos="DT">the</w>
+  <w lem="time" id="w10.1.21" tree="NN" pos="NN">time</w>
+ </chunk>
+ <chunk id="c10.1-14" type="PP">
+  <w lem="of" id="w10.1.22" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c10.1-15" type="NP">
+  <w lem="the" id="w10.1.23" tree="DT" pos="DT">the</w>
+  <w lem="examination" id="w10.1.24" tree="NN" pos="NN">examination</w>
+  <w lem="the" id="w10.1.25" tree="DT" pos="DT">the</w>
+  <w lem="Member" id="w10.1.26" tree="NP" pos="NNP">Member</w>
+  <w lem="State" id="w10.1.27" tree="NP" pos="NNP">State</w>
+  <w lem="concerned" id="w10.1.28" tree="JJ" pos="NNP">concerned</w>
+ </chunk>
+ <chunk id="c10.1-16" type="VP">
+  <w lem="be" id="w10.1.29" tree="VBZ" pos="VBZ">is</w>
+ </chunk>
+ <w lem="not" id="w10.1.30" tree="RB" pos="RB">not</w>
+ <chunk id="c10.1-18" type="NP">
+  <w lem="the" id="w10.1.31" tree="DT" pos="DT">the</w>
+  <w lem="subject" id="w10.1.32" tree="NN" pos="NN">subject</w>
+ </chunk>
+ <chunk id="c10.1-19" type="PP">
+  <w lem="of" id="w10.1.33" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c10.1-20" type="NP">
+  <w lem="a" id="w10.1.34" tree="DT" pos="DT">a</w>
+  <w lem="European" id="w10.1.35" tree="JJ" pos="JJ">European</w>
+  <w lem="decision" id="w10.1.36" tree="NN" pos="NN">decision</w>
+ </chunk>
+ <chunk id="c10.1-21" type="PP">
+  <w lem="of" id="w10.1.37" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c10.1-22" type="NP">
+  <w lem="the" id="w10.1.38" tree="DT" pos="DT">the</w>
+  <w lem="Council" id="w10.1.39" tree="NP" pos="NNP">Council</w>
+ </chunk>
+ <chunk id="c10.1-23" type="PP">
+  <w lem="under" id="w10.1.40" tree="IN" pos="IN">under</w>
+ </chunk>
+ <chunk id="c10.1-24" type="NP">
+  <w id="w10.1.41" tree="NP" pos="NNP">Article III-184(6</w>
+  <w lem=")" id="w10.1.42" tree=")" pos="NN">)</w>
+ </chunk>
+ <chunk id="c10.1-25" type="PP">
+  <w lem="of" id="w10.1.43" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c10.1-26" type="NP">
+  <w lem="the" id="w10.1.44" tree="DT" pos="DT">the</w>
+  <w lem="Constitution" id="w10.1.45" tree="NP" pos="NNP">Constitution</w>
+ </chunk>
+ <chunk id="c10.1-27" type="PP">
+  <w lem="that" id="w10.1.46" tree="IN" pos="IN">that</w>
+ </chunk>
+ <chunk id="c10.1-28" type="NP">
+  <w lem="an" id="w10.1.47" tree="DT" pos="DT">an</w>
+  <w lem="excessive" id="w10.1.48" tree="JJ" pos="JJ">excessive</w>
+  <w lem="deficit" id="w10.1.49" tree="NN" pos="NN">deficit</w>
+  <w lem="exist" id="w10.1.50" tree="VVZ" pos="NNS">exists</w>
+ </chunk>
+ <w lem="." id="w10.1.51" tree="SENT" pos=".">.</w>
+</s></p><a name="anArt3">
+<p class="ArticleTi" id="11">
+<s id="s11.1">
+ <chunk id="c11.1-1" type="NP">
+  <w id="w11.1.1" tree="NN" pos="CD">Article 3</w>
+ </chunk>
+</s></p></a>
+<p id="12">
+<s id="s12.1">
+ <chunk id="c12.1-1" type="NP">
+  <w lem="the" id="w12.1.1" tree="DT" pos="DT">The</w>
+  <w lem="criterion" id="w12.1.2" tree="NN" pos="NN">criterion</w>
+ </chunk>
+ <chunk id="c12.1-2" type="PP">
+  <w lem="on" id="w12.1.3" tree="IN" pos="IN">on</w>
+ </chunk>
+ <chunk id="c12.1-3" type="NP">
+  <w lem="participation" id="w12.1.4" tree="NN" pos="NN">participation</w>
+ </chunk>
+ <chunk id="c12.1-4" type="PP">
+  <w lem="in" id="w12.1.5" tree="IN" pos="IN">in</w>
+ </chunk>
+ <chunk id="c12.1-5" type="NP">
+  <w lem="the" id="w12.1.6" tree="DT" pos="DT">the</w>
+  <w lem="exchange-rate" id="w12.1.7" tree="JJ" pos="NN">exchange-rate</w>
+  <w lem="mechanism" id="w12.1.8" tree="NN" pos="NN">mechanism</w>
+ </chunk>
+ <chunk id="c12.1-6" type="PP">
+  <w lem="of" id="w12.1.9" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c12.1-7" type="NP">
+  <w lem="the" id="w12.1.10" tree="DT" pos="DT">the</w>
+  <w lem="European" id="w12.1.11" tree="NP" pos="NNP">European</w>
+  <w lem="Monetary" id="w12.1.12" tree="NP" pos="NNP">Monetary</w>
+  <w lem="System" id="w12.1.13" tree="NP" pos="NNP">System</w>
+ </chunk>
+ <chunk id="c12.1-8" type="VP">
+  <w lem="refer" id="w12.1.14" tree="VVD" pos="VBD">referred</w>
+ </chunk>
+ <chunk id="c12.1-9" type="PP">
+  <w lem="to" id="w12.1.15" tree="TO" pos="NN">to</w>
+ </chunk>
+ <chunk id="c12.1-10" type="PP">
+  <w lem="in" id="w12.1.16" tree="IN" pos="IN">in</w>
+ </chunk>
+ <chunk id="c12.1-11" type="NP">
+  <w id="w12.1.17" tree="NP" pos="JJ">Article III-198(1)(c</w>
+  <w lem=")" id="w12.1.18" tree=")" pos="NN">)</w>
+ </chunk>
+ <chunk id="c12.1-12" type="PP">
+  <w lem="of" id="w12.1.19" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c12.1-13" type="NP">
+  <w lem="the" id="w12.1.20" tree="DT" pos="DT">the</w>
+  <w lem="Constitution" id="w12.1.21" tree="NP" pos="NNP">Constitution</w>
+ </chunk>
+ <chunk id="c12.1-14" type="VP">
+  <w lem="shall" id="w12.1.22" tree="MD" pos="MD">shall</w>
+  <w lem="mean" id="w12.1.23" tree="VV" pos="VB">mean</w>
+ </chunk>
+ <chunk id="c12.1-15" type="SBAR">
+  <w lem="that" id="w12.1.24" tree="IN" pos="IN">that</w>
+ </chunk>
+ <chunk id="c12.1-16" type="NP">
+  <w lem="the" id="w12.1.25" tree="DT" pos="DT">the</w>
+  <w lem="Member" id="w12.1.26" tree="NP" pos="NNP">Member</w>
+  <w lem="State" id="w12.1.27" tree="NP" pos="NNP">State</w>
+  <w lem="concern" id="w12.1.28" tree="VVN" pos="NNP">concerned</w>
+ </chunk>
+ <chunk id="c12.1-17" type="VP">
+  <w lem="have" id="w12.1.29" tree="VHZ" pos="VBZ">has</w>
+  <w lem="respect" id="w12.1.30" tree="VVN" pos="VBN">respected</w>
+ </chunk>
+ <chunk id="c12.1-18" type="NP">
+  <w lem="the" id="w12.1.31" tree="DT" pos="DT">the</w>
+  <w lem="normal" id="w12.1.32" tree="JJ" pos="JJ">normal</w>
+  <w lem="fluctuation" id="w12.1.33" tree="NN" pos="NN">fluctuation</w>
+  <w lem="margin" id="w12.1.34" tree="NNS" pos="NNS">margins</w>
+ </chunk>
+ <chunk id="c12.1-19" type="VP">
+  <w lem="provided" id="w12.1.35" tree="VVN" pos="VBD">provided</w>
+ </chunk>
+ <chunk id="c12.1-20" type="NP">
+  <w lem="for" id="w12.1.36" tree="IN" pos="NN">for</w>
+ </chunk>
+ <chunk id="c12.1-21" type="PP">
+  <w lem="by" id="w12.1.37" tree="IN" pos="IN">by</w>
+ </chunk>
+ <chunk id="c12.1-22" type="NP">
+  <w lem="the" id="w12.1.38" tree="DT" pos="DT">the</w>
+  <w lem="exchange-rate" id="w12.1.39" tree="JJ" pos="NN">exchange-rate</w>
+  <w lem="mechanism" id="w12.1.40" tree="NN" pos="NN">mechanism</w>
+ </chunk>
+ <chunk id="c12.1-23" type="PP">
+  <w lem="of" id="w12.1.41" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c12.1-24" type="NP">
+  <w lem="the" id="w12.1.42" tree="DT" pos="DT">the</w>
+  <w lem="European" id="w12.1.43" tree="NP" pos="NNP">European</w>
+  <w lem="Monetary" id="w12.1.44" tree="NP" pos="NNP">Monetary</w>
+  <w lem="System" id="w12.1.45" tree="NP" pos="NNP">System</w>
+ </chunk>
+ <chunk id="c12.1-25" type="PP">
+  <w lem="without" id="w12.1.46" tree="IN" pos="IN">without</w>
+ </chunk>
+ <chunk id="c12.1-26" type="NP">
+  <w lem="severe" id="w12.1.47" tree="JJ" pos="JJ">severe</w>
+  <w lem="tension" id="w12.1.48" tree="NNS" pos="NNS">tensions</w>
+ </chunk>
+ <chunk id="c12.1-27" type="PP">
+  <w lem="for" id="w12.1.49" tree="IN" pos="IN">for</w>
+ </chunk>
+ <chunk id="c12.1-28" type="NP">
+  <w lem="at" id="w12.1.50" tree="IN" pos="IN">at</w>
+  <w lem="least" id="w12.1.51" tree="JJS" pos="JJS">least</w>
+  <w lem="the" id="w12.1.52" tree="DT" pos="DT">the</w>
+  <w lem="last" id="w12.1.53" tree="JJ" pos="JJ">last</w>
+  <w lem="two" id="w12.1.54" tree="CD" pos="CD">two</w>
+  <w lem="year" id="w12.1.55" tree="NNS" pos="NNS">years</w>
+ </chunk>
+ <chunk id="c12.1-29" type="PP">
+  <w lem="before" id="w12.1.56" tree="IN" pos="IN">before</w>
+ </chunk>
+ <chunk id="c12.1-30" type="NP">
+  <w lem="the" id="w12.1.57" tree="DT" pos="DT">the</w>
+  <w lem="examination" id="w12.1.58" tree="NN" pos="NN">examination</w>
+ </chunk>
+ <w lem="." id="w12.1.59" tree="SENT" pos=".">.</w>
+</s> 
+ 
+
+
+<s id="s12.2">
+ <chunk id="c12.2-1" type="PP">
+  <w lem="in" id="w12.2.1" tree="IN" pos="IN">In</w>
+ </chunk>
+ <chunk id="c12.2-2" type="ADJP">
+  <w lem="particular" id="w12.2.2" tree="JJ" pos="JJ">particular</w>
+ </chunk>
+ <w lem="," id="w12.2.3" tree="," pos=",">,</w>
+ <chunk id="c12.2-4" type="NP">
+  <w lem="the" id="w12.2.4" tree="DT" pos="DT">the</w>
+  <w lem="Member" id="w12.2.5" tree="NP" pos="NNP">Member</w>
+  <w lem="State" id="w12.2.6" tree="NP" pos="NNP">State</w>
+ </chunk>
+ <chunk id="c12.2-5" type="VP">
+  <w lem="shall" id="w12.2.7" tree="MD" pos="MD">shall</w>
+  <w lem="not" id="w12.2.8" tree="RB" pos="RB">not</w>
+  <w lem="have" id="w12.2.9" tree="VH" pos="VB">have</w>
+  <w lem="devalue" id="w12.2.10" tree="VVN" pos="VBN">devalued</w>
+ </chunk>
+ <chunk id="c12.2-6" type="NP">
+  <w lem="its" id="w12.2.11" tree="PP$" pos="PRP$">its</w>
+  <w id="w12.2.12" tree="NNS" pos="NNS">currency's</w>
+  <w lem="bilateral" id="w12.2.13" tree="JJ" pos="JJ">bilateral</w>
+  <w lem="central" id="w12.2.14" tree="JJ" pos="JJ">central</w>
+  <w lem="rate" id="w12.2.15" tree="NN" pos="NN">rate</w>
+ </chunk>
+ <chunk id="c12.2-7" type="PP">
+  <w lem="against" id="w12.2.16" tree="IN" pos="IN">against</w>
+ </chunk>
+ <chunk id="c12.2-8" type="NP">
+  <w id="w12.2.17" tree="NN" pos="NN">the euro</w>
+ </chunk>
+ <chunk id="c12.2-9" type="PP">
+  <w lem="on" id="w12.2.18" tree="IN" pos="IN">on</w>
+ </chunk>
+ <chunk id="c12.2-10" type="NP">
+  <w lem="its" id="w12.2.19" tree="PP$" pos="PRP$">its</w>
+  <w lem="own" id="w12.2.20" tree="JJ" pos="JJ">own</w>
+  <w lem="initiative" id="w12.2.21" tree="NN" pos="NN">initiative</w>
+ </chunk>
+ <chunk id="c12.2-11" type="PP">
+  <w lem="for" id="w12.2.22" tree="IN" pos="IN">for</w>
+ </chunk>
+ <chunk id="c12.2-12" type="NP">
+  <w lem="the" id="w12.2.23" tree="DT" pos="DT">the</w>
+  <w lem="same" id="w12.2.24" tree="JJ" pos="JJ">same</w>
+  <w lem="period" id="w12.2.25" tree="NN" pos="NN">period</w>
+ </chunk>
+ <w lem="." id="w12.2.26" tree="SENT" pos=".">.</w>
+</s></p><a name="anArt4">
+<p class="ArticleTi" id="13">
+<s id="s13.1">
+ <chunk id="c13.1-1" type="NP">
+  <w id="w13.1.1" tree="NN" pos="CD">Article 4</w>
+ </chunk>
+</s></p></a>
+<p id="14">
+<s id="s14.1">
+ <chunk id="c14.1-1" type="NP">
+  <w lem="the" id="w14.1.1" tree="DT" pos="DT">The</w>
+  <w lem="criterion" id="w14.1.2" tree="NN" pos="NN">criterion</w>
+ </chunk>
+ <chunk id="c14.1-2" type="PP">
+  <w lem="on" id="w14.1.3" tree="IN" pos="IN">on</w>
+ </chunk>
+ <chunk id="c14.1-3" type="NP">
+  <w lem="the" id="w14.1.4" tree="DT" pos="DT">the</w>
+  <w lem="convergence" id="w14.1.5" tree="NN" pos="NN">convergence</w>
+ </chunk>
+ <chunk id="c14.1-4" type="PP">
+  <w lem="of" id="w14.1.6" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c14.1-5" type="NP">
+  <w lem="interest" id="w14.1.7" tree="NN" pos="NN">interest</w>
+  <w lem="rate" id="w14.1.8" tree="NNS" pos="NNS">rates</w>
+ </chunk>
+ <chunk id="c14.1-6" type="VP">
+  <w lem="refer" id="w14.1.9" tree="VVD" pos="VBD">referred</w>
+ </chunk>
+ <chunk id="c14.1-7" type="PP">
+  <w lem="to" id="w14.1.10" tree="TO" pos="NN">to</w>
+ </chunk>
+ <chunk id="c14.1-8" type="PP">
+  <w lem="in" id="w14.1.11" tree="IN" pos="IN">in</w>
+ </chunk>
+ <chunk id="c14.1-9" type="NP">
+  <w id="w14.1.12" tree="NP" pos="JJ">Article III-198(1)(d</w>
+  <w lem=")" id="w14.1.13" tree=")" pos="NN">)</w>
+ </chunk>
+ <chunk id="c14.1-10" type="PP">
+  <w lem="of" id="w14.1.14" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c14.1-11" type="NP">
+  <w lem="the" id="w14.1.15" tree="DT" pos="DT">the</w>
+  <w lem="Constitution" id="w14.1.16" tree="NP" pos="NNP">Constitution</w>
+ </chunk>
+ <chunk id="c14.1-12" type="VP">
+  <w lem="shall" id="w14.1.17" tree="MD" pos="MD">shall</w>
+  <w lem="mean" id="w14.1.18" tree="VV" pos="VB">mean</w>
+ </chunk>
+ <chunk id="c14.1-13" type="SBAR">
+  <w lem="that" id="w14.1.19" tree="IN" pos="IN">that</w>
+ </chunk>
+ <chunk id="c14.1-14" type="NP">
+  <w lem="," id="w14.1.20" tree="," pos="NNP">,</w>
+ </chunk>
+ <chunk id="c14.1-15" type="VP">
+  <w lem="observe" id="w14.1.21" tree="VVN" pos="VBD">observed</w>
+ </chunk>
+ <chunk id="c14.1-16" type="PP">
+  <w lem="over" id="w14.1.22" tree="IN" pos="IN">over</w>
+ </chunk>
+ <chunk id="c14.1-17" type="NP">
+  <w lem="a" id="w14.1.23" tree="DT" pos="DT">a</w>
+  <w lem="period" id="w14.1.24" tree="NN" pos="NN">period</w>
+ </chunk>
+ <chunk id="c14.1-18" type="PP">
+  <w lem="of" id="w14.1.25" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c14.1-19" type="NP">
+  <w lem="one" id="w14.1.26" tree="CD" pos="CD">one</w>
+  <w lem="year" id="w14.1.27" tree="NN" pos="NN">year</w>
+ </chunk>
+ <chunk id="c14.1-20" type="PP">
+  <w lem="before" id="w14.1.28" tree="IN" pos="IN">before</w>
+ </chunk>
+ <chunk id="c14.1-21" type="NP">
+  <w lem="the" id="w14.1.29" tree="DT" pos="DT">the</w>
+  <w lem="examination" id="w14.1.30" tree="NN" pos="NN">examination</w>
+ </chunk>
+ <w lem="," id="w14.1.31" tree="," pos=",">,</w>
+ <chunk id="c14.1-23" type="NP">
+  <w lem="the" id="w14.1.32" tree="DT" pos="DT">the</w>
+  <w lem="Member" id="w14.1.33" tree="NP" pos="NNP">Member</w>
+  <w lem="State" id="w14.1.34" tree="NP" pos="NNP">State</w>
+  <w lem="concern" id="w14.1.35" tree="VVN" pos="NNP">concerned</w>
+  <w lem="have" id="w14.1.36" tree="VHZ" pos="NNP">has</w>
+ </chunk>
+ <chunk id="c14.1-24" type="VP">
+  <w lem="have" id="w14.1.37" tree="VHN" pos="VBD">had</w>
+ </chunk>
+ <chunk id="c14.1-25" type="NP">
+  <w lem="an" id="w14.1.38" tree="DT" pos="DT">an</w>
+  <w lem="average" id="w14.1.39" tree="JJ" pos="JJ">average</w>
+  <w lem="nominal" id="w14.1.40" tree="JJ" pos="JJ">nominal</w>
+  <w lem="long-term" id="w14.1.41" tree="JJ" pos="JJ">long-term</w>
+  <w lem="interest" id="w14.1.42" tree="NN" pos="NN">interest</w>
+  <w lem="rate" id="w14.1.43" tree="NN" pos="NN">rate</w>
+ </chunk>
+ <chunk id="c14.1-26" type="NP">
+  <w lem="that" id="w14.1.44" tree="WDT" pos="WDT">that</w>
+ </chunk>
+ <chunk id="c14.1-27" type="VP">
+  <w lem="do" id="w14.1.45" tree="VVZ" pos="VBZ">does</w>
+  <w lem="not" id="w14.1.46" tree="RB" pos="RB">not</w>
+  <w lem="exceed" id="w14.1.47" tree="VV" pos="VB">exceed</w>
+ </chunk>
+ <chunk id="c14.1-28" type="PP">
+  <w lem="by" id="w14.1.48" tree="IN" pos="IN">by</w>
+ </chunk>
+ <chunk id="c14.1-29" type="NP">
+  <w lem="more" id="w14.1.49" tree="JJR" pos="JJR">more</w>
+  <w lem="than" id="w14.1.50" tree="IN" pos="IN">than</w>
+  <w lem="2" id="w14.1.51" tree="CD" pos="CD">2</w>
+  <w lem="percentage" id="w14.1.52" tree="NN" pos="NN">percentage</w>
+  <w lem="point" id="w14.1.53" tree="NNS" pos="NNS">points</w>
+ </chunk>
+ <chunk id="c14.1-30" type="PP">
+  <w lem="that" id="w14.1.54" tree="IN" pos="IN">that</w>
+ </chunk>
+ <chunk id="c14.1-31" type="PP">
+  <w lem="of" id="w14.1.55" tree="IN" pos="NN">of</w>
+ </chunk>
+ <chunk id="c14.1-32" type="NP">
+  <w lem="," id="w14.1.56" tree="," pos="NN">,</w>
+ </chunk>
+ <chunk id="c14.1-33" type="PP">
+  <w lem="at" id="w14.1.57" tree="IN" pos="IN">at</w>
+ </chunk>
+ <chunk id="c14.1-34" type="NP">
+  <w lem="most" id="w14.1.58" tree="JJS" pos="JJS">most</w>
+ </chunk>
+ <w lem="," id="w14.1.59" tree="," pos=",">,</w>
+ <chunk id="c14.1-36" type="NP">
+  <w lem="the" id="w14.1.60" tree="DT" pos="DT">the</w>
+  <w lem="three" id="w14.1.61" tree="CD" pos="CD">three</w>
+  <w lem="good" id="w14.1.62" tree="JJS" pos="JJS">best</w>
+  <w lem="perform" id="w14.1.63" tree="VVG" pos="NN">performing</w>
+  <w lem="Member" id="w14.1.64" tree="NP" pos="NNP">Member</w>
+  <w lem="States" id="w14.1.65" tree="NPS" pos="NNP">States</w>
+ </chunk>
+ <chunk id="c14.1-37" type="PP">
+  <w lem="in" id="w14.1.66" tree="IN" pos="IN">in</w>
+ </chunk>
+ <chunk id="c14.1-38" type="NP">
+  <w lem="term" id="w14.1.67" tree="NNS" pos="NNS">terms</w>
+ </chunk>
+ <chunk id="c14.1-39" type="PP">
+  <w lem="of" id="w14.1.68" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c14.1-40" type="NP">
+  <w lem="price" id="w14.1.69" tree="NN" pos="NN">price</w>
+  <w lem="stability" id="w14.1.70" tree="NN" pos="NN">stability</w>
+ </chunk>
+ <w lem="." id="w14.1.71" tree="SENT" pos=".">.</w>
+</s> 
+ 
+
+
+<s id="s14.2">
+ <chunk id="c14.2-1" type="NP">
+  <w lem="interest" id="w14.2.1" tree="NN" pos="NN">Interest</w>
+  <w lem="rate" id="w14.2.2" tree="NNS" pos="NNS">rates</w>
+ </chunk>
+ <chunk id="c14.2-2" type="VP">
+  <w lem="shall" id="w14.2.3" tree="MD" pos="MD">shall</w>
+  <w lem="be" id="w14.2.4" tree="VB" pos="VB">be</w>
+  <w lem="measured" id="w14.2.5" tree="VVN" pos="VBN">measured</w>
+ </chunk>
+ <chunk id="c14.2-3" type="PP">
+  <w lem="on" id="w14.2.6" tree="IN" pos="IN">on</w>
+ </chunk>
+ <chunk id="c14.2-4" type="NP">
+  <w lem="the" id="w14.2.7" tree="DT" pos="DT">the</w>
+  <w lem="basis" id="w14.2.8" tree="NN" pos="NN">basis</w>
+ </chunk>
+ <chunk id="c14.2-5" type="PP">
+  <w lem="of" id="w14.2.9" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c14.2-6" type="NP">
+  <w lem="long-term" id="w14.2.10" tree="JJ" pos="JJ">long-term</w>
+  <w lem="government" id="w14.2.11" tree="NN" pos="NN">government</w>
+  <w lem="bond" id="w14.2.12" tree="NNS" pos="NNS">bonds</w>
+ </chunk>
+ <w lem="or" id="w14.2.13" tree="CC" pos="CC">or</w>
+ <chunk id="c14.2-8" type="NP">
+  <w lem="comparable" id="w14.2.14" tree="JJ" pos="JJ">comparable</w>
+  <w lem="security" id="w14.2.15" tree="NNS" pos="NNS">securities</w>
+ </chunk>
+ <w lem="," id="w14.2.16" tree="," pos=",">,</w>
+ <chunk id="c14.2-10" type="VP">
+  <w lem="take" id="w14.2.17" tree="VVG" pos="VBG">taking</w>
+ </chunk>
+ <chunk id="c14.2-11" type="PP">
+  <w lem="into" id="w14.2.18" tree="IN" pos="IN">into</w>
+ </chunk>
+ <chunk id="c14.2-12" type="NP">
+  <w lem="account" id="w14.2.19" tree="NN" pos="NN">account</w>
+  <w lem="difference" id="w14.2.20" tree="NNS" pos="NNS">differences</w>
+ </chunk>
+ <chunk id="c14.2-13" type="PP">
+  <w lem="in" id="w14.2.21" tree="IN" pos="IN">in</w>
+ </chunk>
+ <chunk id="c14.2-14" type="NP">
+  <w lem="national" id="w14.2.22" tree="JJ" pos="JJ">national</w>
+  <w lem="definition" id="w14.2.23" tree="NNS" pos="NNS">definitions</w>
+ </chunk>
+ <w lem="." id="w14.2.24" tree="SENT" pos=".">.</w>
+</s></p><a name="anArt5">
+<p class="ArticleTi" id="15">
+<s id="s15.1">
+ <chunk id="c15.1-1" type="NP">
+  <w id="w15.1.1" tree="NN" pos="CD">Article 5</w>
+ </chunk>
+</s></p></a>
+<p id="16">
+<s id="s16.1">
+ <chunk id="c16.1-1" type="NP">
+  <w lem="the" id="w16.1.1" tree="DT" pos="DT">The</w>
+  <w lem="statistical" id="w16.1.2" tree="JJ" pos="JJ">statistical</w>
+  <w lem="datum" id="w16.1.3" tree="NNS" pos="NNS">data</w>
+ </chunk>
+ <chunk id="c16.1-2" type="VP">
+  <w lem="to" id="w16.1.4" tree="TO" pos="TO">to</w>
+  <w lem="be" id="w16.1.5" tree="VB" pos="VB">be</w>
+  <w lem="use" id="w16.1.6" tree="VVN" pos="VBN">used</w>
+ </chunk>
+ <chunk id="c16.1-3" type="PP">
+  <w lem="for" id="w16.1.7" tree="IN" pos="IN">for</w>
+ </chunk>
+ <chunk id="c16.1-4" type="NP">
+  <w lem="the" id="w16.1.8" tree="DT" pos="DT">the</w>
+  <w lem="application" id="w16.1.9" tree="NN" pos="NN">application</w>
+ </chunk>
+ <chunk id="c16.1-5" type="PP">
+  <w lem="of" id="w16.1.10" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c16.1-6" type="NP">
+  <w lem="this" id="w16.1.11" tree="DT" pos="DT">this</w>
+  <w lem="Protocol" id="w16.1.12" tree="NP" pos="NN">Protocol</w>
+ </chunk>
+ <chunk id="c16.1-7" type="VP">
+  <w lem="shall" id="w16.1.13" tree="MD" pos="MD">shall</w>
+  <w lem="be" id="w16.1.14" tree="VB" pos="VB">be</w>
+  <w lem="provided" id="w16.1.15" tree="VVN" pos="VBN">provided</w>
+ </chunk>
+ <chunk id="c16.1-8" type="PP">
+  <w lem="by" id="w16.1.16" tree="IN" pos="IN">by</w>
+ </chunk>
+ <chunk id="c16.1-9" type="NP">
+  <w lem="the" id="w16.1.17" tree="DT" pos="DT">the</w>
+  <w lem="Commission" id="w16.1.18" tree="NP" pos="NNP">Commission</w>
+ </chunk>
+ <w lem="." id="w16.1.19" tree="SENT" pos=".">.</w>
+</s></p><a name="anArt6">
+<p class="ArticleTi" id="17">
+<s id="s17.1">
+ <chunk id="c17.1-1" type="NP">
+  <w id="w17.1.1" tree="NN" pos="CD">Article 6</w>
+ </chunk>
+</s></p></a>
+<p id="18">
+<s id="s18.1">
+ <chunk id="c18.1-1" type="NP">
+  <w lem="the" id="w18.1.1" tree="DT" pos="DT">The</w>
+  <w lem="Council" id="w18.1.2" tree="NP" pos="NNP">Council</w>
+  <w lem="shall" id="w18.1.3" tree="MD" pos="NNP">shall</w>
+ </chunk>
+ <w lem="," id="w18.1.4" tree="," pos=",">,</w>
+ <chunk id="c18.1-3" type="VP">
+  <w lem="act" id="w18.1.5" tree="VVG" pos="VBG">acting</w>
+ </chunk>
+ <chunk id="c18.1-4" type="ADVP">
+  <w lem="unanimously" id="w18.1.6" tree="RB" pos="RB">unanimously</w>
+ </chunk>
+ <chunk id="c18.1-5" type="PP">
+  <w lem="on" id="w18.1.7" tree="IN" pos="IN">on</w>
+ </chunk>
+ <chunk id="c18.1-6" type="NP">
+  <w lem="a" id="w18.1.8" tree="DT" pos="DT">a</w>
+  <w lem="proposal" id="w18.1.9" tree="NN" pos="NN">proposal</w>
+ </chunk>
+ <chunk id="c18.1-7" type="PP">
+  <w lem="from" id="w18.1.10" tree="IN" pos="IN">from</w>
+ </chunk>
+ <chunk id="c18.1-8" type="NP">
+  <w lem="the" id="w18.1.11" tree="DT" pos="DT">the</w>
+  <w lem="Commission" id="w18.1.12" tree="NP" pos="NNP">Commission</w>
+ </chunk>
+ <w lem="and" id="w18.1.13" tree="CC" pos="CC">and</w>
+ <chunk id="c18.1-10" type="PP">
+  <w lem="after" id="w18.1.14" tree="IN" pos="IN">after</w>
+ </chunk>
+ <chunk id="c18.1-11" type="VP">
+  <w lem="consult" id="w18.1.15" tree="VVG" pos="VBG">consulting</w>
+ </chunk>
+ <chunk id="c18.1-12" type="NP">
+  <w lem="the" id="w18.1.16" tree="DT" pos="DT">the</w>
+  <w lem="European" id="w18.1.17" tree="NP" pos="NNP">European</w>
+  <w lem="Parliament" id="w18.1.18" tree="NP" pos="NNP">Parliament</w>
+ </chunk>
+ <w lem="," id="w18.1.19" tree="," pos=",">,</w>
+ <chunk id="c18.1-14" type="NP">
+  <w lem="the" id="w18.1.20" tree="DT" pos="DT">the</w>
+  <w lem="European" id="w18.1.21" tree="NP" pos="NNP">European</w>
+  <w lem="Central" id="w18.1.22" tree="NP" pos="NNP">Central</w>
+  <w lem="Bank" id="w18.1.23" tree="NP" pos="NNP">Bank</w>
+ </chunk>
+ <w lem="," id="w18.1.24" tree="," pos=",">,</w>
+ <w lem="and" id="w18.1.25" tree="CC" pos="CC">and</w>
+ <chunk id="c18.1-17" type="NP">
+  <w lem="the" id="w18.1.26" tree="DT" pos="DT">the</w>
+  <w lem="Economic" id="w18.1.27" tree="NP" pos="NNP">Economic</w>
+  <w lem="and" id="w18.1.28" tree="CC" pos="CC">and</w>
+  <w lem="Financial" id="w18.1.29" tree="NP" pos="NNP">Financial</w>
+  <w lem="Committee" id="w18.1.30" tree="NP" pos="NNP">Committee</w>
+ </chunk>
+ <chunk id="c18.1-18" type="VP">
+  <w lem="refer" id="w18.1.31" tree="VVD" pos="VBD">referred</w>
+ </chunk>
+ <chunk id="c18.1-19" type="PP">
+  <w lem="to" id="w18.1.32" tree="TO" pos="TO">to</w>
+ </chunk>
+ <chunk id="c18.1-20" type="PP">
+  <w lem="in" id="w18.1.33" tree="IN" pos="IN">in</w>
+ </chunk>
+ <chunk id="c18.1-21" type="NP">
+  <w id="w18.1.34" tree="CD" pos="CD">Article III-192</w>
+ </chunk>
+ <chunk id="c18.1-22" type="PP">
+  <w lem="of" id="w18.1.35" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c18.1-23" type="NP">
+  <w lem="the" id="w18.1.36" tree="DT" pos="DT">the</w>
+  <w lem="Constitution" id="w18.1.37" tree="NP" pos="NNP">Constitution</w>
+ </chunk>
+ <w lem="," id="w18.1.38" tree="," pos=",">,</w>
+ <chunk id="c18.1-25" type="VP">
+  <w lem="adopt" id="w18.1.39" tree="VV" pos="VB">adopt</w>
+ </chunk>
+ <chunk id="c18.1-26" type="NP">
+  <w lem="appropriate" id="w18.1.40" tree="JJ" pos="JJ">appropriate</w>
+  <w lem="provision" id="w18.1.41" tree="NNS" pos="NNS">provisions</w>
+ </chunk>
+ <chunk id="c18.1-27" type="VP">
+  <w lem="to" id="w18.1.42" tree="TO" pos="TO">to</w>
+  <w lem="lay" id="w18.1.43" tree="VV" pos="VB">lay</w>
+ </chunk>
+ <chunk id="c18.1-28" type="PRT">
+  <w lem="down" id="w18.1.44" tree="RP" pos="RP">down</w>
+ </chunk>
+ <chunk id="c18.1-29" type="NP">
+  <w lem="the" id="w18.1.45" tree="DT" pos="DT">the</w>
+  <w lem="detail" id="w18.1.46" tree="NNS" pos="NNS">details</w>
+ </chunk>
+ <chunk id="c18.1-30" type="PP">
+  <w lem="of" id="w18.1.47" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c18.1-31" type="NP">
+  <w lem="the" id="w18.1.48" tree="DT" pos="DT">the</w>
+  <w lem="convergence" id="w18.1.49" tree="NN" pos="NN">convergence</w>
+  <w lem="criterion" id="w18.1.50" tree="NNS" pos="NN">criteria</w>
+ </chunk>
+ <chunk id="c18.1-32" type="VP">
+  <w lem="refer" id="w18.1.51" tree="VVD" pos="VBD">referred</w>
+ </chunk>
+ <chunk id="c18.1-33" type="PP">
+  <w lem="to" id="w18.1.52" tree="TO" pos="TO">to</w>
+ </chunk>
+ <chunk id="c18.1-34" type="PP">
+  <w lem="in" id="w18.1.53" tree="IN" pos="IN">in</w>
+ </chunk>
+ <chunk id="c18.1-35" type="NP">
+  <w id="w18.1.54" tree="CD" pos="CD">Article III-198</w>
+ </chunk>
+ <chunk id="c18.1-36" type="PP">
+  <w lem="of" id="w18.1.55" tree="IN" pos="IN">of</w>
+ </chunk>
+ <chunk id="c18.1-37" type="NP">
+  <w lem="the" id="w18.1.56" tree="DT" pos="DT">the</w>
+  <w lem="Constitution" id="w18.1.57" tree="NP" pos="NNP">Constitution</w>
+ </chunk>
+ <w lem="," id="w18.1.58" tree="," pos=",">,</w>
+ <chunk id="c18.1-39" type="NP">
+  <w lem="which" id="w18.1.59" tree="WDT" pos="WDT">which</w>
+ </chunk>
+ <chunk id="c18.1-40" type="VP">
+  <w lem="shall" id="w18.1.60" tree="MD" pos="MD">shall</w>
+  <w lem="then" id="w18.1.61" tree="RB" pos="RB">then</w>
+  <w lem="replace" id="w18.1.62" tree="VV" pos="VB">replace</w>
+ </chunk>
+ <chunk id="c18.1-41" type="NP">
+  <w lem="this" id="w18.1.63" tree="DT" pos="DT">this</w>
+  <w lem="Protocol" id="w18.1.64" tree="NP" pos="NN">Protocol</w>
+ </chunk>
+ <w lem="." id="w18.1.65" tree="SENT" pos=".">.</w>
+</s></p></body>
+</html>

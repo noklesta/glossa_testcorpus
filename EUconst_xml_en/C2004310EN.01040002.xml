@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html><head>
+<title id="1">
+<s id="s1.1">
+ <chunk type="NP" id="c1.1-1">
+  <w pos="NNP" tree="NP" id="w1.1.1">Celex</w>
+  <w lem="Test" pos="NNP" tree="NP" id="w1.1.2">Test</w>
+ </chunk>
+</s></title>
+
+<link xmlns="http://www.w3.org/1999/xhtml" href="../../../../../css/traite.css" rel="stylesheet" type="text/css" />
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" /></head><body>
+<p class="TiDoc" id="2">
+<s id="s2.1">
+ <chunk type="NP" id="c2.1-1">
+  <w pos="NNP" tree="NN" id="w2.1.1">ANNEX II</w>
+ </chunk>
+</s></p>
+<p class="StiDoc" id="3">
+<s id="s3.1">
+ <chunk type="NP" id="c3.1-1">
+  <w lem="overseas" pos="NNP" tree="JJ" id="w3.1.1">OVERSEAS</w>
+  <w lem="country" pos="NNP" tree="NNS" id="w3.1.2">COUNTRIES</w>
+  <w lem="and" pos="NNP" tree="CC" id="w3.1.3">AND</w>
+  <w lem="territory" pos="NNP" tree="NNS" id="w3.1.4">TERRITORIES</w>
+  <w lem="TO" pos="NNP" tree="TO" id="w3.1.5">TO</w>
+  <w lem="which" pos="NNP" tree="WDT" id="w3.1.6">WHICH</w>
+  <w pos="NNP" tree="NP" id="w3.1.7">TITLE IV</w>
+ </chunk>
+ <chunk type="PP" id="c3.1-2">
+  <w lem="of" pos="NNP" tree="IN" id="w3.1.8">OF</w>
+ </chunk>
+ <chunk type="NP" id="c3.1-3">
+  <w pos="NNP" tree="NP" id="w3.1.9">PART III</w>
+ </chunk>
+ <chunk type="PP" id="c3.1-4">
+  <w lem="of" pos="NNP" tree="IN" id="w3.1.10">OF</w>
+ </chunk>
+ <chunk type="NP" id="c3.1-5">
+  <w lem="the" pos="NNP" tree="DT" id="w3.1.11">THE</w>
+  <w lem="constitution" pos="NNP" tree="NN" id="w3.1.12">CONSTITUTION</w>
+  <w lem="apply" pos="NNP" tree="VVZ" id="w3.1.13">APPLIES</w>
+ </chunk>
+</s></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="4">
+<s id="s4.1">
+ <chunk type="NP" id="c4.1-1">
+  <w lem="-" pos="NN" tree=":" id="w4.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="5">
+<s id="s5.1">
+ <chunk type="NP" id="c5.1-1">
+  <w lem="Greenland" pos="NNP" tree="NP" id="w5.1.1">Greenland</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="6">
+<s id="s6.1">
+ <chunk type="NP" id="c6.1-1">
+  <w lem="-" pos="NN" tree=":" id="w6.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="7">
+<s id="s7.1">
+ <chunk type="NP" id="c7.1-1">
+  <w lem="New" pos="NNP" tree="NP" id="w7.1.1">New</w>
+  <w lem="Caledonia" pos="NNP" tree="NP" id="w7.1.2">Caledonia</w>
+  <w lem="and" pos="CC" tree="CC" id="w7.1.3">and</w>
+  <w lem="dependency" pos="NNP" tree="NNS" id="w7.1.4">Dependencies</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="8">
+<s id="s8.1">
+ <chunk type="NP" id="c8.1-1">
+  <w lem="-" pos="NN" tree=":" id="w8.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="9">
+<s id="s9.1">
+ <chunk type="NP" id="c9.1-1">
+  <w lem="French" pos="NNP" tree="NP" id="w9.1.1">French</w>
+  <w lem="Polynesia" pos="NNP" tree="NP" id="w9.1.2">Polynesia</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="10">
+<s id="s10.1">
+ <chunk type="NP" id="c10.1-1">
+  <w lem="-" pos="NN" tree=":" id="w10.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="11">
+<s id="s11.1">
+ <chunk type="NP" id="c11.1-1">
+  <w lem="French" pos="JJ" tree="NP" id="w11.1.1">French</w>
+  <w lem="Southern" pos="NNP" tree="NP" id="w11.1.2">Southern</w>
+  <w lem="and" pos="CC" tree="CC" id="w11.1.3">and</w>
+  <w lem="Antarctic" pos="NNP" tree="NP" id="w11.1.4">Antarctic</w>
+  <w lem="Territories" pos="NNP" tree="NP" id="w11.1.5">Territories</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="12">
+<s id="s12.1">
+ <chunk type="NP" id="c12.1-1">
+  <w lem="-" pos="NN" tree=":" id="w12.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="13">
+<s id="s13.1">
+ <chunk type="NP" id="c13.1-1">
+  <w lem="Wallis" pos="NNP" tree="NP" id="w13.1.1">Wallis</w>
+  <w lem="and" pos="CC" tree="CC" id="w13.1.2">and</w>
+  <w lem="Futuna" pos="NNP" tree="NP" id="w13.1.3">Futuna</w>
+  <w lem="Islands" pos="NNP" tree="NPS" id="w13.1.4">Islands</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="14">
+<s id="s14.1">
+ <chunk type="NP" id="c14.1-1">
+  <w lem="-" pos="NN" tree=":" id="w14.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="15">
+<s id="s15.1">
+ <chunk type="NP" id="c15.1-1">
+  <w lem="Mayotte" pos="NNP" tree="NP" id="w15.1.1">Mayotte</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="16">
+<s id="s16.1">
+ <chunk type="NP" id="c16.1-1">
+  <w lem="-" pos="NN" tree=":" id="w16.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="17">
+<s id="s17.1">
+ <chunk type="NP" id="c17.1-1">
+  <w lem="Saint" pos="NNP" tree="NP" id="w17.1.1">Saint</w>
+  <w lem="Pierre" pos="NNP" tree="NP" id="w17.1.2">Pierre</w>
+  <w lem="and" pos="CC" tree="CC" id="w17.1.3">and</w>
+  <w lem="Miquelon" pos="NNP" tree="NP" id="w17.1.4">Miquelon</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="18">
+<s id="s18.1">
+ <chunk type="NP" id="c18.1-1">
+  <w lem="-" pos="NN" tree=":" id="w18.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="19">
+<s id="s19.1">
+ <chunk type="NP" id="c19.1-1">
+  <w lem="Aruba" pos="NNP" tree="NP" id="w19.1.1">Aruba</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="20">
+<s id="s20.1">
+ <chunk type="NP" id="c20.1-1">
+  <w lem="-" pos="NN" tree=":" id="w20.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3"><p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="21">
+<s id="s21.1">
+ <chunk type="NP" id="c21.1-1">
+  <w lem="-" pos="NN" tree=":" id="w21.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="22">
+<s id="s22.1">
+ <chunk type="NP" id="c22.1-1">
+  <w lem="Bonaire" pos="NNP" tree="NP" id="w22.1.1">Bonaire</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="23">
+<s id="s23.1">
+ <chunk type="NP" id="c23.1-1">
+  <w lem="-" pos="NN" tree=":" id="w23.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="24">
+<s id="s24.1">
+ <chunk type="NP" id="c24.1-1">
+  <w pos="NNP" tree="NN" id="w24.1.1">Curaçao</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="25">
+<s id="s25.1">
+ <chunk type="NP" id="c25.1-1">
+  <w lem="-" pos="NN" tree=":" id="w25.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="26">
+<s id="s26.1">
+ <chunk type="NP" id="c26.1-1">
+  <w lem="Saba" pos="NNP" tree="NP" id="w26.1.1">Saba</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="27">
+<s id="s27.1">
+ <chunk type="NP" id="c27.1-1">
+  <w lem="-" pos="NN" tree=":" id="w27.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="28">
+<s id="s28.1">
+ <chunk type="NP" id="c28.1-1">
+  <w lem="Sint" pos="NNP" tree="NP" id="w28.1.1">Sint</w>
+  <w lem="Eustatius" pos="NNP" tree="NP" id="w28.1.2">Eustatius</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="29">
+<s id="s29.1">
+ <chunk type="NP" id="c29.1-1">
+  <w lem="-" pos="NN" tree=":" id="w29.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="30">
+<s id="s30.1">
+ <chunk type="NP" id="c30.1-1">
+  <w lem="Sint" pos="NNP" tree="NP" id="w30.1.1">Sint</w>
+  <w lem="Maarten" pos="NNP" tree="NP" id="w30.1.2">Maarten</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="31">
+<s id="s31.1">
+ <chunk type="NP" id="c31.1-1">
+  <w lem="-" pos="NN" tree=":" id="w31.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="32">
+<s id="s32.1">
+ <chunk type="NP" id="c32.1-1">
+  <w lem="Anguilla" pos="NNP" tree="NP" id="w32.1.1">Anguilla</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="33">
+<s id="s33.1">
+ <chunk type="NP" id="c33.1-1">
+  <w lem="-" pos="NN" tree=":" id="w33.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="34">
+<s id="s34.1">
+ <chunk type="NP" id="c34.1-1">
+  <w lem="Cayman" pos="NNP" tree="NP" id="w34.1.1">Cayman</w>
+  <w lem="Islands" pos="NNP" tree="NPS" id="w34.1.2">Islands</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="35">
+<s id="s35.1">
+ <chunk type="NP" id="c35.1-1">
+  <w lem="-" pos="NN" tree=":" id="w35.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="36">
+<s id="s36.1">
+ <chunk type="NP" id="c36.1-1">
+  <w lem="Falkland" pos="NNP" tree="NP" id="w36.1.1">Falkland</w>
+  <w lem="Islands" pos="NNP" tree="NPS" id="w36.1.2">Islands</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="37">
+<s id="s37.1">
+ <chunk type="NP" id="c37.1-1">
+  <w lem="-" pos="NN" tree=":" id="w37.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="38">
+<s id="s38.1">
+ <chunk type="NP" id="c38.1-1">
+  <w lem="South" pos="NNP" tree="NP" id="w38.1.1">South</w>
+  <w lem="Georgia" pos="NNP" tree="NP" id="w38.1.2">Georgia</w>
+ </chunk>
+ <w lem="and" pos="CC" tree="CC" id="w38.1.3">and</w>
+ <chunk type="NP" id="c38.1-3">
+  <w lem="the" pos="DT" tree="DT" id="w38.1.4">the</w>
+  <w lem="South" pos="NNP" tree="NP" id="w38.1.5">South</w>
+  <w lem="Sandwich" pos="NNP" tree="NP" id="w38.1.6">Sandwich</w>
+  <w lem="Islands" pos="NNP" tree="NPS" id="w38.1.7">Islands</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="39">
+<s id="s39.1">
+ <chunk type="NP" id="c39.1-1">
+  <w lem="-" pos="NN" tree=":" id="w39.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="40">
+<s id="s40.1">
+ <chunk type="NP" id="c40.1-1">
+  <w lem="Montserrat" pos="NNP" tree="NP" id="w40.1.1">Montserrat</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="41">
+<s id="s41.1">
+ <chunk type="NP" id="c41.1-1">
+  <w lem="-" pos="NN" tree=":" id="w41.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="42">
+<s id="s42.1">
+ <chunk type="NP" id="c42.1-1">
+  <w lem="Pitcairn" pos="NNP" tree="NP" id="w42.1.1">Pitcairn</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="43">
+<s id="s43.1">
+ <chunk type="NP" id="c43.1-1">
+  <w lem="-" pos="NN" tree=":" id="w43.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="44">
+<s id="s44.1">
+ <chunk type="NP" id="c44.1-1">
+  <w lem="Saint" pos="NNP" tree="NP" id="w44.1.1">Saint</w>
+  <w lem="Helena" pos="NNP" tree="NP" id="w44.1.2">Helena</w>
+  <w lem="and" pos="CC" tree="CC" id="w44.1.3">and</w>
+  <w lem="dependency" pos="NNP" tree="NNS" id="w44.1.4">Dependencies</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="45">
+<s id="s45.1">
+ <chunk type="NP" id="c45.1-1">
+  <w lem="-" pos="NN" tree=":" id="w45.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="46">
+<s id="s46.1">
+ <chunk type="NP" id="c46.1-1">
+  <w lem="British" pos="NNP" tree="NP" id="w46.1.1">British</w>
+  <w lem="Antarctic" pos="NNP" tree="NP" id="w46.1.2">Antarctic</w>
+  <w lem="Territory" pos="NNP" tree="NP" id="w46.1.3">Territory</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="47">
+<s id="s47.1">
+ <chunk type="NP" id="c47.1-1">
+  <w lem="-" pos="NN" tree=":" id="w47.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="48">
+<s id="s48.1">
+ <chunk type="NP" id="c48.1-1">
+  <w lem="British" pos="NNP" tree="NP" id="w48.1.1">British</w>
+  <w lem="Indian" pos="NNP" tree="NP" id="w48.1.2">Indian</w>
+  <w lem="Ocean" pos="NNP" tree="NP" id="w48.1.3">Ocean</w>
+  <w lem="Territory" pos="NNP" tree="NP" id="w48.1.4">Territory</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="49">
+<s id="s49.1">
+ <chunk type="NP" id="c49.1-1">
+  <w lem="-" pos="NN" tree=":" id="w49.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="50">
+<s id="s50.1">
+ <chunk type="NP" id="c50.1-1">
+  <w lem="Turks" pos="NNP" tree="NPS" id="w50.1.1">Turks</w>
+  <w lem="and" pos="CC" tree="CC" id="w50.1.2">and</w>
+  <w lem="Caicos" pos="NNP" tree="NP" id="w50.1.3">Caicos</w>
+  <w lem="Islands" pos="NNP" tree="NPS" id="w50.1.4">Islands</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="51">
+<s id="s51.1">
+ <chunk type="NP" id="c51.1-1">
+  <w lem="-" pos="NN" tree=":" id="w51.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="52">
+<s id="s52.1">
+ <chunk type="NP" id="c52.1-1">
+  <w lem="British" pos="NNP" tree="NP" id="w52.1.1">British</w>
+  <w lem="Virgin" pos="NNP" tree="NP" id="w52.1.2">Virgin</w>
+  <w lem="Islands" pos="NNPS" tree="NPS" id="w52.1.3">Islands</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p><p><table class="textBlockTable"><tbody class="textBlockTable"><tr class="textBlockTable">
+<td class="textBlockTable_1" id="53">
+<s id="s53.1">
+ <chunk type="NP" id="c53.1-1">
+  <w lem="-" pos="NN" tree=":" id="w53.1.1">-</w>
+ </chunk>
+</s></td>
+<td class="textBlockTable_2" /><td class="textBlockTable_3">
+<p id="54">
+<s id="s54.1">
+ <chunk type="NP" id="c54.1-1">
+  <w lem="Bermuda" pos="NNP" tree="NP" id="w54.1.1">Bermuda</w>
+ </chunk>
+</s></p></td></tr></tbody></table></p></body>
+</html>
