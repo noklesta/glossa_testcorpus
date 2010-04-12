@@ -1,0 +1,13 @@
+# long descriptive name for the corpus
+NAME "Test corpus for Glossa"
+
+# corpus ID (must be lowercase in registry!)
+ID test
+
+# path to binary data files - set this according to your server configuration!
+HOME /path/to/corpus_data/TEST
+
+ATTRIBUTE word
+ATTRIBUTE lemma
+ATTRIBUTE pos
+
