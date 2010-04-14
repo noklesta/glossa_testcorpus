@@ -9,6 +9,6 @@ In that case you will need the nokogiri ruby gem (`sudo gem install nokogiri`).
 
 References
 ----------
-Please cite the following article if you use any part of the corpus in your own work:
+Please cite the following article if you use any part of the corpus in your own work:  
 Jörg Tiedemann, Lars Nygaard, 2004, The OPUS corpus - parallel & free. In Proceedings of the Fourth International Conference on Language Resources and Evaluation (LREC'04). Lisbon, Portugal
 
