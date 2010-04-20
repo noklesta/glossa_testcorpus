@@ -7932,7 +7932,7 @@
  <chunk id="c134.1-5" type="NP">
   <w lem="attend" id="w134.1.7" tree="VVG" pos="NN">attending</w>
  </chunk>
- <w lem="," id="w134.1.8" tree="," pos="PRP$R">,</w>
+ <w lem="," id="w134.1.8" tree="," pos=",">,</w>
  <chunk id="c134.1-7" type="NP">
   <w lem="his" id="w134.1.9" tree="PP$" pos="PRP$">his</w>
   <w lem="place" id="w134.1.10" tree="NN" pos="NN">place</w>

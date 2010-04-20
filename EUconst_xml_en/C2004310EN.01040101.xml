@@ -5195,7 +5195,7 @@
  <chunk id="c273.1-5" type="NP">
   <w pos="JJ" lem="ag" id="w273.1.7" tree="NN">ag</w>
   <w pos="NN" lem="an" id="w273.1.8" tree="DT">an</w>
-  <w pos="VBG|NN" id="w273.1.9" tree="NN">gComhdháil</w>
+  <w pos="NNP" id="w273.1.9" tree="NN">gComhdháil</w>
  </chunk>
  <chunk id="c273.1-6" type="NP">
   <w pos="DT" lem="an" id="w273.1.10" tree="DT">an</w>

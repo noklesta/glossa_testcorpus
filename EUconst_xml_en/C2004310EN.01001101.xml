@@ -241,7 +241,7 @@
  <chunk id="c7.4-5" type="NP">
   <w id="w7.4.7" tree="DT" lem="all" pos="DT">all</w>
   <w id="w7.4.8" tree="JJ" lem="European" pos="NNP">European</w>
-  <w id="w7.4.9" tree="NPS" lem="States" pos="VBG|NN">States</w>
+  <w id="w7.4.9" tree="NPS" lem="States" pos="NNPS">States</w>
  </chunk>
  <chunk id="c7.4-6" type="NP">
   <w id="w7.4.10" tree="WDT" lem="which" pos="WDT">which</w>
@@ -23780,7 +23780,7 @@
  <chunk id="c417.2-5" type="NP">
   <w id="w417.2.7" tree="DT" lem="all" pos="DT">all</w>
   <w id="w417.2.8" tree="JJ" lem="European" pos="NNP">European</w>
-  <w id="w417.2.9" tree="NPS" lem="States" pos="VBG|NN">States</w>
+  <w id="w417.2.9" tree="NPS" lem="States" pos="NNPS">States</w>
  </chunk>
  <chunk id="c417.2-6" type="NP">
   <w id="w417.2.10" tree="WDT" lem="which" pos="WDT">which</w>

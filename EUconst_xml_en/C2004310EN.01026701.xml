@@ -12913,7 +12913,7 @@
   <w pos="JJ" id="w254.5.22" lem="they" tree="PP">they</w>
  </chunk>
  <chunk type="VP" id="c254.5-15">
-  <w pos="MD|VB" id="w254.5.23" lem="autonomous" tree="JJ">autonomous</w>
+  <w pos="JJ" id="w254.5.23" lem="autonomous" tree="JJ">autonomous</w>
   <w pos="CC" id="w254.5.24" lem="or" tree="CC">or</w>
   <w pos="VBN" id="w254.5.25" lem="enact" tree="VVN">enacted</w>
  </chunk>
