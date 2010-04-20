@@ -1,0 +1,40 @@
+''	punct	quo
+(	punct	lpar
+)	punct	rpar
+,	punct	comma
+.	punct	period
+:	punct	colon
+CC	conj	coord
+CD	number
+DT	det
+EX	ex
+FW	fw
+IN	prep
+JJ	adj		pos
+JJR	adj		comp
+JJS	adj		sup
+LS	list
+MD	v	modal
+NN	n	c					sg
+NNP	n	c					pl
+NNPS	p	c					sg
+NNS	n	c					pl
+PDT	det	pre
+POS	pos
+PRP	pron	pers
+PRP$	pron	poss
+RB	adv		pos
+RBR	adv		comp
+RBS	adv		sup
+RP	rp
+TO	to
+VB	v	be		base
+VBD	v	have	past
+VBG	v	have	gerund
+VBN	v	be		pastpart
+VBP	v	be		present	n3ps
+VBZ	v	be		present	3ps
+WDT	det					wh
+WP	pron					wh
+WP$	pron	poss				wh
+WRB	adv					wh
