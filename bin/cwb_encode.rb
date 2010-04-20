@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+require 'fileutils'
+
 CWB_BINARY_PATH = '/usr/local/bin'
 TAB_FILE_NAME = 'files/EUconst_en.tab'
 REGISTRY_DIR = 'corpus_registry'
