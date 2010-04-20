@@ -1807,7 +1807,7 @@ open	open	JJ
 to	to	TO
 all	all	DT
 European	European	NNP
-States	States	VBG|NN
+States	States	NNPS
 which	which	WDT
 respect	respect	VBZ
 its	its	PRP$
@@ -11962,7 +11962,7 @@ open	open	JJ
 to	to	TO
 all	all	DT
 European	European	NNP
-States	States	VBG|NN
+States	States	NNPS
 which	which	WDT
 respect	respect	VBP
 the	the	DT
@@ -26988,7 +26988,7 @@ failing	fail	NN
 to	to	TO
 put	put	VB
 the	the	DT
-Council's	Council's	VB|NN
+Council's	Council's	NNP
 recommendations	recommendation	NNS
 into	into	IN
 practice	practice	NN
@@ -47293,7 +47293,7 @@ and	and	CC
 security	security	NN
 policy	policy	NN
 by	by	NN
-:	:	JJ|VBN
+:	:	:
 (	(	(
 a	a	NN
 )	)	)
@@ -101917,7 +101917,7 @@ policy	policy	NN
 ,	,	,
 be	be	VBD
 they	they	JJ
-autonomous	autonomous	MD|VB
+autonomous	autonomous	JJ
 or	or	CC
 enacted	enact	VBN
 by	by	IN
@@ -117009,7 +117009,7 @@ the	the	DT
 Commission	Commission	NNP
 reserves	reserve	VBZ
 the	the	DT
-right	right	VBN|JJ
+right	right	NN
 to	to	TO
 modify	modify	VB
 in	in	IN
@@ -120923,7 +120923,7 @@ market	market	NN
 vii	vii	NN
 )	)	)
 PHS	PHS	NNP
-investing	invest	VBG|NN
+investing	invest	VBG
 in	in	IN
 order	order	NN
 to	to	TO
@@ -121801,7 +121801,7 @@ the	the	DT
 Commission	Commission	NNP
 reserves	reserve	VBZ
 the	the	DT
-right	right	VBN|JJ
+right	right	NN
 to	to	TO
 modify	modify	VB
 in	in	IN
@@ -142850,7 +142850,7 @@ a	a	DT
 leanas	leanas	VBZ
 ag	ag	JJ
 an	an	NN
-gComhdháil	gComhdháil	VBG|NN
+gComhdháil	gComhdháil	NNP
 an	an	DT
 Ionstraim	Ionstraim	NNP
 Chríochnaítheach	Chríochnaítheach	NNP
