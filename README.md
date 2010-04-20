@@ -3,8 +3,8 @@ the English version of the EU constitution, copied from <http://urd.let.rug.nl/t
 
 Requirements
 ------------
-The finished corpus is included in this repository, and it is not necessary to re-create it, but it
-can be accomplished by running the `create_corpus.rb` ruby script.
+The finished corpus is included in this repository and does not need to be re-created, but it can nevertheless
+be accomplished by running the `create_corpus.rb` ruby script.
 In that case you will need the nokogiri ruby gem (`sudo gem install nokogiri`).
 
 References
