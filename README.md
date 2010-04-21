@@ -17,6 +17,8 @@ Instructions
   if the `conf` parameter given in `paths.conf` is `/opt/glossa/conf/`, you should now 
   end up with `/opt/glossa/conf/test/cgi.conf`.
 * Edit the `cgi.conf` file to specify the following:
+  * username and password to your Glossa database, as well as the database name and the
+    host it is running on
   * `htmlRoot` (the root URL for HTML, PHP, and JavaScript files) and `cgiRoot` 
     (the root URL for CGI files)
   * the path to your registry directory
