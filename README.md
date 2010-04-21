@@ -26,7 +26,7 @@ Instructions
 * Copy the `TEST` directory found in the `corpus_data` directory to the location where you 
   want to store corpus data.
 * Copy the file `corpus_registry/test` to your CWB registry location and edit the `PATH` 
-  line in this file to point to the location of the `TEST` directory.
+  line in this file to point to the `TEST` directory.
 * Copy the contents of the `html` directory to the `html` directory below `htmlRoot` 
   in your Glossa installation.
 * Copy the contents of the `js` directory to the `js` directory below `htmlRoot` in 
