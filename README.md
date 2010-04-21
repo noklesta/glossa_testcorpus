@@ -15,7 +15,8 @@ Instructions
   if the `conf` parameter given in `paths.conf` is `/opt/glossa/conf/`, you should now 
   end up with `/opt/glossa/conf/test/cgi.conf`.
 * Edit the `cgi.conf` file to specify the following:
-  * `htmlRoot` (the root URL for HTML, PHP, and JavaScript files) and `cgiRoot` (the root URL for CGI files)
+  * `htmlRoot` (the root URL for HTML, PHP, and JavaScript files) and `cgiRoot` 
+    (the root URL for CGI files)
   * the path to your registry directory
   * the location that will be used for exports of search results (`dat_files`). Since
     the exported files will be served from here, it needs to be located below the document
@@ -25,6 +26,10 @@ Instructions
   want to store corpus data.
 * Copy the file `corpus_registry/test` to your CWB registry location and edit the `PATH` 
   line in this file to point to the location of the `TEST` directory.
+* Copy the contents of the `html` directory to the `html` directory below `htmlRoot` 
+  in your Glossa installation
+* Copy the contents of the `js` directory to the `js` directory below `htmlRoot` in 
+  your Glossa installation
 
 References
 ----------
