@@ -9,7 +9,7 @@ In that case you will need the nokogiri ruby gem (`sudo gem install nokogiri`).
 
 Instructions
 ------------
-* Copy the `test` directory which is found in the `conf` directory to the location 
+* Copy the `test` directory that is found in the `conf` directory to the location 
   where you want to keep your configuration files. This location should be specified 
   in the file `cgi-bin/glossa/paths.conf` in your Glossa installation. In other words, 
   if the `conf` parameter given in `paths.conf` is `/opt/glossa/conf/`, you should now 
@@ -27,9 +27,9 @@ Instructions
 * Copy the file `corpus_registry/test` to your CWB registry location and edit the `PATH` 
   line in this file to point to the location of the `TEST` directory.
 * Copy the contents of the `html` directory to the `html` directory below `htmlRoot` 
-  in your Glossa installation
+  in your Glossa installation.
 * Copy the contents of the `js` directory to the `js` directory below `htmlRoot` in 
-  your Glossa installation
+  your Glossa installation.
 
 References
 ----------
