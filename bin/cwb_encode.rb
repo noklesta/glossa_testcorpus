@@ -12,7 +12,8 @@ CORPUS_NAME = 'TEST'
 FileUtils.rm("#{DATA_DIR}/#{CORPUS_NAME}/*", :force => true)
 
 # Encode the corpus data
-system("#{CWB_BINARY_PATH}/cwb-encode -xsB -f #{TAB_FILE_NAME} -d #{DATA_DIR}/#{CORPUS_NAME} -s -D -P lemma -P pos")
+system("#{CWB_BINARY_PATH}/cwb-encode -xsB -f #{TAB_FILE_NAME} -d #{DATA_DIR}/#{CORPUS_NAME} -s -D " +
+           "-P lemma -P pos -P type -P degr_dia -P tense_defin -P person_type2 -P number")
 
 # Create indexes for CQP
 system("#{CWB_BINARY_PATH}/cwb-makeall -r #{REGISTRY_DIR} -V #{CORPUS_NAME}")
