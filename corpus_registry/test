@@ -10,4 +10,9 @@ HOME /path/to/corpus_data/TEST
 ATTRIBUTE word
 ATTRIBUTE lemma
 ATTRIBUTE pos
+ATTRIBUTE type
+ATTRIBUTE degr_dia
+ATTRIBUTE tense_defin
+ATTRIBUTE person_type2
+ATTRIBUTE number
 
