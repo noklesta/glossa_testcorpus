@@ -16,7 +16,7 @@ system("#{CWB_BINARY_PATH}/cwb-encode -xsB -f #{TAB_FILE_NAME} -d #{DATA_DIR}/#{
            "-P lemma -P pos -P type -P degr_dia -P tense_defin -P person_type2 -P number")
 
 # Create indexes for CQP
-system("#{CWB_BINARY_PATH}/cwb-makeall -r #{REGISTRY_DIR} -V #{CORPUS_NAME}")
+system("#{CWB_BINARY_PATH}/cwb-make -r #{REGISTRY_DIR} -V #{CORPUS_NAME}")
 
 puts "################################"
 puts
