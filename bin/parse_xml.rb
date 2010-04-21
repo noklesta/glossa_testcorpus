@@ -5,7 +5,7 @@
 require 'rubygems'
 require 'nokogiri'
 
-XML_DIR = 'EUconst_xml_en'
+XML_DIR = 'data/EUconst_xml_en'
 OUTPUT_FILE = 'data/out/EUconst_en.tab'
 
 File.open(OUTPUT_FILE, 'w') do |outfile|
