@@ -15,10 +15,10 @@ JJR	adj		comp
 JJS	adj		sup
 LS	list
 MD	v	modal
-NN	n	c					sg
-NNP	n	c					pl
-NNPS	p	c					sg
-NNS	n	c					pl
+NN	n	c				sg
+NNP	n	c				pl
+NNPS	p	c				sg
+NNS	n	c				pl
 PDT	det	pre
 POS	pos
 PRP	pron	pers
@@ -34,7 +34,7 @@ VBG	v	have	gerund
 VBN	v	be		pastpart
 VBP	v	be		present	n3ps
 VBZ	v	be		present	3ps
-WDT	det					wh
-WP	pron					wh
-WP$	pron	poss				wh
-WRB	adv					wh
+WDT	det				wh
+WP	pron				wh
+WP$	pron	poss			wh
+WRB	adv				wh
