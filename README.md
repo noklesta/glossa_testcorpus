@@ -4,9 +4,10 @@ the English version of the EU constitution, copied from <http://urd.let.rug.nl/t
 Requirements
 ------------
 * A Glossa installation, of course. See <http://github.com/noklesta/glossa_svn>.
-* The finished corpus is included in this repository and does not need to be re-created, but it can nevertheless
-be accomplished by running the `create_corpus.rb` ruby script.
-In that case you will need the nokogiri ruby gem (`sudo gem install nokogiri`).
+* The finished corpus is included in this repository and does not need to be re-created, 
+  but it can nevertheless be accomplished by running the `create_corpus.rb` ruby script 
+  (after setting `PATH` in the registry file to `corpus_data/TEST`).
+  In that case you will need the nokogiri ruby gem (`sudo gem install nokogiri`).
 
 Instructions
 ------------
