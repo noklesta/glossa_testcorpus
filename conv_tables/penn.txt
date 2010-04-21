@@ -26,8 +26,10 @@ PRP$	pron	poss
 RB	adv		pos
 RBR	adv		comp
 RBS	adv		sup
-RP	rp
+RP	particle
+SYM	sym
 TO	to
+UH	interj
 VB	v	be		base
 VBD	v	have	past
 VBG	v	have	gerund
