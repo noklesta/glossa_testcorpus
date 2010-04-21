@@ -3,7 +3,7 @@
 require 'fileutils'
 
 CWB_BINARY_PATH = '/usr/local/bin'
-TAB_FILE_NAME = 'files/EUconst_en.tab'
+TAB_FILE_NAME = 'data/out/EUconst_en.tab'
 REGISTRY_DIR = 'corpus_registry'
 DATA_DIR = 'corpus_data'
 CORPUS_NAME = 'TEST'

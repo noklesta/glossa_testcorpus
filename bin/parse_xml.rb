@@ -6,7 +6,7 @@ require 'rubygems'
 require 'nokogiri'
 
 XML_DIR = 'EUconst_xml_en'
-OUTPUT_FILE = 'files/EUconst_en.tab'
+OUTPUT_FILE = 'data/out/EUconst_en.tab'
 
 File.open(OUTPUT_FILE, 'w') do |outfile|
   Dir["#{XML_DIR}/*.xml"].each do |infilename|
