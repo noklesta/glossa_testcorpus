@@ -30,7 +30,8 @@ Instructions
 * Copy the contents of the `html` directory to the `html` directory below `htmlRoot` 
   in your Glossa installation.
 * Copy the contents of the `js` directory to the `js` directory below `htmlRoot` in 
-  your Glossa installation.
+  your Glossa installation. Edit `test.conf.js` and set the `htmlRoot` and `cgiRoot` 
+  variables to the same values as in the `cgi.conf` file.
 
 References
 ----------
