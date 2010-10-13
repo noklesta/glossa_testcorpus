@@ -1,0 +1,15 @@
+db_pwd  = SOME_DB_PASSWORD
+db_name = SOME_DB_NAME
+db_uname = SOME_DB_USERNAME
+db_host = localhost
+charset = utf-8
+htmlRoot = /glossa/
+cgiRoot = /cgi-bin/glossa/
+type = monolingual
+logfile = /tmp/glossalog
+cwb_registry = PATH_TO_CORPUS_REGISTRY
+corpus_attributes = word lemma pos type degr_dia tense_defin person_type2 number
+tmp_dir = /tmp/
+dat_files = PATH_TO_CORPUS_DOWNLOAD
+config_dir = PATH_TO_CONFIG
+lang = en
